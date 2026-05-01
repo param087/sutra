@@ -1,0 +1,1634 @@
+[
+  {
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nकथं ज्ञानमवाप्नोति कथं मुक्तिर्भविष्यति ।\nवैराग्यं च कथं प्राप्तमेतद्ब्रूहि मम प्रभो ॥",
+    "iast": "janaka uvāca |\nkathaṃ jñānam avāpnoti kathaṃ muktir bhaviṣyati |\nvairāgyaṃ ca kathaṃ prāptam etad brūhi mama prabho ||",
+    "english": "Janaka said: How is knowledge to be achieved, detachment to be attained, and liberation to be reached? Tell me this, my Lord.",
+    "themes": [
+      "knowledge",
+      "liberation",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 2,
+    "sanskrit": "अष्टावक्र उवाच ।\nमुक्तिमिच्छसि चेत्तात विषयान्विषवत्त्यज ।\nक्षमार्जवदयातोषसत्यं पीयूषवद्भज ॥",
+    "iast": "aṣṭāvakra uvāca |\nmuktim icchasi cet tāta viṣayān viṣavat tyaja |\nkṣamārjava-dayā-toṣa-satyaṃ pīyūṣavad bhaja ||",
+    "english": "Ashtavakra said: If you are seeking liberation, my dearest one, shun the objects of the senses like poison and seek tolerance, sincerity, compassion, contentment, and truthfulness as nectar.",
+    "themes": [
+      "liberation",
+      "detachment",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 3,
+    "sanskrit": "न पृथ्वी न जलं नाग्निर्न वायुर्द्यौर्न वा भवान् ।\nएषां साक्षिणमात्मानं चिद्रूपं विद्धि मुक्तये ॥",
+    "iast": "na pṛthvī na jalaṃ nāgnir na vāyur dyaur na vā bhavān |\neṣāṃ sākṣiṇam ātmānaṃ cid-rūpaṃ viddhi muktaye ||",
+    "english": "You do not consist of the elements — earth, water, fire, air, or even ether. To be liberated, know yourself as consisting of consciousness, the witness of these.",
+    "themes": [
+      "self",
+      "witness",
+      "consciousness",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 4,
+    "sanskrit": "यदि देहं पृथक्कृत्य चिति विश्राम्य तिष्ठसि ।\nअधुनैव सुखी शान्तो बन्धमुक्तो भविष्यसि ॥",
+    "iast": "yadi dehaṃ pṛthak kṛtya citi viśrāmya tiṣṭhasi |\nadhunaiva sukhī śānto bandha-mukto bhaviṣyasi ||",
+    "english": "If you detach yourself from the body and rest in consciousness, you will at once be happy, at peace, and free from bondage.",
+    "themes": [
+      "self",
+      "detachment",
+      "peace",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 5,
+    "sanskrit": "न त्वं विप्रादिको वर्णो नाश्रमी नाक्षगोचरः ।\nअसङ्गोऽसि निराकारो विश्वसाक्षी सुखी भव ॥",
+    "iast": "na tvaṃ viprādiko varṇo nāśramī nākṣa-gocaraḥ |\nasaṅgo'si nirākāro viśva-sākṣī sukhī bhava ||",
+    "english": "You do not belong to any caste or stage of life. You are invisible, unattached, formless — the witness of everything. Be happy.",
+    "themes": [
+      "witness",
+      "self",
+      "detachment",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 6,
+    "sanskrit": "धर्माधर्मौ सुखं दुःखं मानसानि न ते विभो ।\nन कर्तासि न भोक्तासि मुक्त एवासि सर्वदा ॥",
+    "iast": "dharmādharmau sukhaṃ duḥkhaṃ mānasāni na te vibho |\nna kartāsi na bhoktāsi mukta evāsi sarvadā ||",
+    "english": "Right and wrong, pleasure and pain, exist only in the mind. They are not yours. You are neither the doer nor the enjoyer. You are always free.",
+    "themes": [
+      "self",
+      "liberation",
+      "action",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 7,
+    "sanskrit": "एको द्रष्टासि सर्वस्य मुक्तप्रायोऽसि सर्वदा ।\nअयमेव हि ते बन्धो द्रष्टारं पश्यसीतरम् ॥",
+    "iast": "eko draṣṭāsi sarvasya mukta-prāyo'si sarvadā |\nayam eva hi te bandho draṣṭāraṃ paśyasītaram ||",
+    "english": "You are the one witness of everything and are always completely free. The cause of your bondage is that you see the witness as something other than this.",
+    "themes": [
+      "witness",
+      "bondage",
+      "self",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 8,
+    "sanskrit": "अहं कर्तेत्यहंमानमहाकृष्णाहिदंशितः ।\nनाहं कर्तेति विश्वासामृतं पीत्वा सुखी भव ॥",
+    "iast": "ahaṃ kartety ahaṃ-māna-mahā-kṛṣṇāhi-daṃśitaḥ |\nnāhaṃ karteti viśvāsāmṛtaṃ pītvā sukhī bhava ||",
+    "english": "You have been bitten by the great black serpent of ego which says 'I am the doer.' Drink the nectar of the faith 'I am not the doer' and be happy.",
+    "themes": [
+      "ego",
+      "action",
+      "bliss",
+      "self"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 9,
+    "sanskrit": "एको विशुद्धबोधोऽहमिति निश्चयवह्निना ।\nप्रज्वाल्याज्ञानगहनं वीतशोकः सुखी भव ॥",
+    "iast": "eko viśuddha-bodho'ham iti niścaya-vahninā |\nprajvālyājñāna-gahanaṃ vīta-śokaḥ sukhī bhava ||",
+    "english": "Burn down the forest of ignorance with the fire of the conviction 'I am the one pure awareness' and be happy and free from sorrow.",
+    "themes": [
+      "consciousness",
+      "knowledge",
+      "bliss",
+      "self"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 10,
+    "sanskrit": "यत्र विश्वमिदं भाति कल्पितं रज्जुसर्पवत् ।\nआनन्दपरमानन्दः स बोधस्त्वं सुखं चर ॥",
+    "iast": "yatra viśvam idaṃ bhāti kalpitaṃ rajju-sarpavat |\nānanda-paramānandaḥ sa bodhas tvaṃ sukhaṃ cara ||",
+    "english": "That in which all this appears — imagined like a snake in a rope — that joy, supreme joy, and awareness is what you are. Be happy.",
+    "themes": [
+      "consciousness",
+      "bliss",
+      "self",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 11,
+    "sanskrit": "मुक्ताभिमानी मुक्तो हि बद्धो बद्धाभिमान्यपि ।\nकिंवदन्तीह सत्येयं या मतिः सा गतिर्भवेत् ॥",
+    "iast": "muktābhimānī mukto hi baddho baddhābhimāny api |\nkiṃvadantīha satyeyaṃ yā matiḥ sā gatir bhavet ||",
+    "english": "He who considers himself free is free indeed, and he who considers himself bound remains bound. 'As you think, so you become' — this saying is true.",
+    "themes": [
+      "liberation",
+      "bondage",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 12,
+    "sanskrit": "आत्मा साक्षी विभुः पूर्णः एको मुक्तश्चिदक्रियः ।\nअसङ्गो निःस्पृहः शान्तो भ्रमात्संसारवानिव ॥",
+    "iast": "ātmā sākṣī vibhuḥ pūrṇaḥ eko muktaś cid-akriyaḥ |\nasaṅgo niḥspṛhaḥ śānto bhramāt saṃsāravān iva ||",
+    "english": "The Self is the witness, all-pervading, perfect, one, free, consciousness, actionless, unattached, desireless, at peace. It appears as the world only through illusion.",
+    "themes": [
+      "self",
+      "witness",
+      "consciousness",
+      "peace",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 13,
+    "sanskrit": "कूटस्थं बोधमद्वैतमात्मानं परिभावय ।\nआभासोऽहं भ्रमं मुक्त्वा भावं बाह्यमथान्तरम् ॥",
+    "iast": "kūṭasthaṃ bodham advaitam ātmānaṃ paribhāvaya |\nābhāso'haṃ bhramaṃ muktvā bhāvaṃ bāhyam athāntaram ||",
+    "english": "Meditate on the Self as immovable awareness, non-dual. Give up the illusion of being a reflection, and both external and internal are abandoned.",
+    "themes": [
+      "self",
+      "consciousness",
+      "duality",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 14,
+    "sanskrit": "देहाभिमानपाशेन चिरं बद्धोऽसि पुत्रक ।\nबोधोऽहं ज्ञानखड्गेन तन्निकृत्य सुखी भव ॥",
+    "iast": "dehābhimāna-pāśena ciraṃ baddho'si putraka |\nbodho'haṃ jñāna-khaḍgena tan nikṛtya sukhī bhava ||",
+    "english": "You have long been bound by identification with the body. Sever this with the sword of knowledge 'I am awareness' and be happy.",
+    "themes": [
+      "bondage",
+      "self",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 15,
+    "sanskrit": "निःसङ्गो निष्क्रियोऽसि त्वं स्वप्रकाशो निरञ्जनः ।\nअयमेव हि ते बन्धः समाधिमनुतिष्ठति ॥",
+    "iast": "niḥsaṅgo niṣkriyo'si tvaṃ sva-prakāśo nirañjanaḥ |\nayam eva hi te bandhaḥ samādhim anutiṣṭhati ||",
+    "english": "You are unattached, actionless, self-luminous, and spotless already. The cause of your bondage is that you still resort to stilling the mind.",
+    "themes": [
+      "self",
+      "detachment",
+      "action",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 16,
+    "sanskrit": "त्वया व्याप्तमिदं विश्वं त्वयि प्रोतं यथार्थतः ।\nशुद्धबुद्धस्वरूपस्त्वं मा गमः क्षुद्रचित्तताम् ॥",
+    "iast": "tvayā vyāptam idaṃ viśvaṃ tvayi protaṃ yathārthataḥ |\nśuddha-buddha-svarūpas tvaṃ mā gamaḥ kṣudra-cittatām ||",
+    "english": "You pervade this universe and the universe exists in you. You are pure awareness by nature — do not be small-minded.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 17,
+    "sanskrit": "निरपेक्षो निर्विकारो निर्भरः शीतलाशयः ।\nअगाधबुद्धिरक्षुब्धो भव चिन्मात्रवासनः ॥",
+    "iast": "nirapekṣo nirvikāro nirbharaḥ śītalāśayaḥ |\nagādha-buddhir akṣubdho bhava cin-mātra-vāsanaḥ ||",
+    "english": "You are unconditioned, changeless, formless, of cool disposition, of unfathomable intelligence, unperturbed. Desire consciousness alone.",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 18,
+    "sanskrit": "साकारमनृतं विद्धि निराकारं तु निश्चलम् ।\nएतत्त्वोपदेशेन न पुनर्भवसम्भवः ॥",
+    "iast": "sākāram anṛtaṃ viddhi nirākāraṃ tu niścalam |\netat tattvopadeśena na punar-bhava-sambhavaḥ ||",
+    "english": "Know that which has form to be unreal and the formless to be permanent. Through this spiritual teaching you will escape the possibility of rebirth.",
+    "themes": [
+      "knowledge",
+      "liberation",
+      "self",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 19,
+    "sanskrit": "यथैवादर्शमध्यस्थे रूपेऽन्तः परितस्तथा ।\nतथैवाऽस्मिन्शरीरेऽन्तः परितः परमेश्वरः ॥",
+    "iast": "yathaivādarśa-madhyasthe rūpe'ntaḥ paritas tathā |\ntathaivāsmin śarīre'ntaḥ paritaḥ parameśvaraḥ ||",
+    "english": "Just as the same all-pervading space exists within and without a pot, so the eternal all-pervasive consciousness exists in all things.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 1,
+    "verse": 20,
+    "sanskrit": "एकं सर्वगतं व्योम बहिरन्तर्यथा घटे ।\nनित्यं निरन्तरं ब्रह्म सर्वभूतगणे तथा ॥",
+    "iast": "ekaṃ sarvagataṃ vyoma bahir antar yathā ghaṭe |\nnityaṃ nirantaraṃ brahma sarva-bhūta-gaṇe tathā ||",
+    "english": "Just as space is everywhere — inside and outside the pot — so the eternal, continuous reality exists in all beings.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nअहो निरञ्जनः शान्तो बोधोऽहं प्रकृतेः परः ।\nएतावन्तमहं कालं मोहेनैव विडम्बितः ॥",
+    "iast": "janaka uvāca |\naho nirañjanaḥ śānto bodho'haṃ prakṛteḥ paraḥ |\netāvantam ahaṃ kālaṃ mohenāiva viḍambitaḥ ||",
+    "english": "Janaka said: Oh, I am spotless, tranquil, awareness, beyond nature. All this time I have been duped by illusion.",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 2,
+    "sanskrit": "यथा प्रकाशयाम्येको देहमेनं तथा जगत् ।\nअतो मम जगत्सर्वमथवा न च किञ्चन ॥",
+    "iast": "yathā prakāśayāmy eko deham enaṃ tathā jagat |\nato mama jagat sarvam athavā na ca kiñcana ||",
+    "english": "As I alone illuminate this body, so I illuminate the world. Either the whole world is mine, or nothing is.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "sanskrit": "स शरीरमहो विश्वं परित्यज्य मयाधुना ।\nकुतश्चित्कौशलादेव परमात्मा विलोक्यते ॥",
+    "iast": "sa śarīram aho viśvaṃ parityajya mayādhunā |\nkutaścit kauśalād eva paramātmā vilokyate ||",
+    "english": "Now that I have abandoned the body and the world through some skill or other, I see the supreme Self.",
+    "themes": [
+      "self",
+      "detachment",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 4,
+    "sanskrit": "यथा न तोयतो भिन्नास्तरङ्गाः फेनबुद्बुदाः ।\nआत्मनो न तथा भिन्नं विश्वमात्मविनिर्गतम् ॥",
+    "iast": "yathā na toyato bhinnās taraṅgāḥ phena-budbudāḥ |\nātmano na tathā bhinnaṃ viśvam ātma-vinirgataṃ ||",
+    "english": "Just as waves, foam, and bubbles are not different from water, so the universe emerging from the Self is not different from it.",
+    "themes": [
+      "self",
+      "consciousness",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 5,
+    "sanskrit": "तन्तुमात्रो भवेदेव पटो यद्वद्विचारितः ।\nआत्मतन्मात्रमेवेदं तद्वद्विश्वं विचारितम् ॥",
+    "iast": "tantu-mātro bhaved eva paṭo yadvad vicāritaḥ |\nātma-tan-mātram evedaṃ tadvad viśvaṃ vicāritam ||",
+    "english": "Just as cloth, when examined, is found to be nothing but thread, so this world, when examined, is nothing but the Self.",
+    "themes": [
+      "self",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 6,
+    "sanskrit": "यथैवेक्षुरसे क्लृप्ता तेन व्याप्तैव शर्करा ।\nतथा विश्वं मयि क्लृप्तं मया व्याप्तं निरन्तरम् ॥",
+    "iast": "yathaivekṣu-rase klṛptā tena vyāptaiva śarkarā |\ntathā viśvaṃ mayi klṛptaṃ mayā vyāptaṃ nirantaram ||",
+    "english": "Just as sugar is pervaded by the sweetness of sugarcane juice, so the world produced in me is permeated by me through and through.",
+    "themes": [
+      "self",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "sanskrit": "आत्मज्ञानाज्जगद्भाति आत्मज्ञानान्न भासते ।\nरज्ज्वज्ञानादहिर्भाति तज्ज्ञानाद्भासते न हि ॥",
+    "iast": "ātma-jñānāj jagad bhāti ātma-jñānān na bhāsate |\nrajjv-ajñānād ahir bhāti taj-jñānād bhāsate na hi ||",
+    "english": "The world appears because of ignorance of the Self and disappears with knowledge of the Self, just as the snake appears through ignorance of the rope and disappears when the rope is known.",
+    "themes": [
+      "knowledge",
+      "self",
+      "duality",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 8,
+    "sanskrit": "प्रकाशो मे निजं रूपं नातिरिक्तोऽस्म्यहं ततः ।\nयदा प्रकाशते विश्वं तदाहं भास एव हि ॥",
+    "iast": "prakāśo me nijaṃ rūpaṃ nātirikto'smy ahaṃ tataḥ |\nyadā prakāśate viśvaṃ tadāhaṃ bhāsa eva hi ||",
+    "english": "Light is my very nature. I am nothing other than that. When the world shines forth, it is only I that am shining.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 9,
+    "sanskrit": "अहो विकल्पितं विश्वमज्ञानान्मयि भासते ।\nरूप्यं शुक्तौ फणी रज्जौ वारि सूर्यकरे यथा ॥",
+    "iast": "aho vikalpitaṃ viśvam ajñānān mayi bhāsate |\nrūpyaṃ śuktau phaṇī rajjau vāri sūrya-kare yathā ||",
+    "english": "Oh, the world appears in me through ignorance, like silver in mother-of-pearl, a snake in a rope, or water in a sunbeam.",
+    "themes": [
+      "consciousness",
+      "knowledge",
+      "duality",
+      "self"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 10,
+    "sanskrit": "मत्तो विनिर्गतं विश्वं मय्येव लयमेष्यति ।\nमृदि कुम्भो जले वीचिः कनके कटकं यथा ॥",
+    "iast": "matto vinirgataṃ viśvaṃ mayy eva layam eṣyati |\nmṛdi kumbho jale vīciḥ kanake kaṭakaṃ yathā ||",
+    "english": "The world has come from me and will dissolve in me, like a pot in clay, a wave in water, a bracelet in gold.",
+    "themes": [
+      "self",
+      "consciousness",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "sanskrit": "अहो अहं नमो मह्यं विनाशो यस्य नास्ति मे ।\nब्रह्मादिस्तम्बपर्यन्तं जगन्नाशोऽपि तिष्ठतः ॥",
+    "iast": "aho ahaṃ namo mahyaṃ vināśo yasya nāsti me |\nbrahmādi-stamba-paryantaṃ jagan-nāśo'pi tiṣṭhataḥ ||",
+    "english": "How wonderful I am! I salute myself, for whom there is no destruction — who remains even when the whole world, from Brahma to the last blade of grass, is destroyed.",
+    "themes": [
+      "self",
+      "consciousness",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "sanskrit": "अहो अहं नमो मह्यमेकोऽहं देहवानपि ।\nक्वचिन्न गन्ता नागन्ता व्याप्य विश्वमवस्थितः ॥",
+    "iast": "aho ahaṃ namo mahyam eko'haṃ dehavān api |\nkvacin na gantā nāgantā vyāpya viśvam avasthitaḥ ||",
+    "english": "How wonderful I am! I salute myself! Though with a body, I neither go anywhere nor come from anywhere, but abide pervading the whole world.",
+    "themes": [
+      "self",
+      "witness",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "sanskrit": "अहो अहं नमो मह्यं दक्षो नास्तीह मत्समः ।\nअसंस्पृश्य शरीरेण येन विश्वं चिरं धृतम् ॥",
+    "iast": "aho ahaṃ namo mahyam dakṣo nāstīha mat-samaḥ |\nasaṃspṛśya śarīreṇa yena viśvaṃ ciraṃ dhṛtam ||",
+    "english": "How wonderful I am! There is no one as capable as me, who sustains this world forever without even touching it with my body.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "sanskrit": "अहो अहं नमो मह्यं यस्य मे नास्ति किञ्चन ।\nअथवा यस्य मे सर्वं यद्वाङ्मनसगोचरम् ॥",
+    "iast": "aho ahaṃ namo mahyam yasya me nāsti kiñcana |\nathavā yasya me sarvaṃ yad-vāṅ-manasa-gocaram ||",
+    "english": "How wonderful I am! I salute myself — who possesses nothing at all, or alternatively possesses everything that speech and mind can refer to.",
+    "themes": [
+      "self",
+      "detachment",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 15,
+    "sanskrit": "ज्ञानं ज्ञेयं तथा ज्ञाता त्रितयं नास्ति वास्तवम् ।\nअज्ञानाद्भाति यत्रेदं सोऽहमस्मि निरञ्जनः ॥",
+    "iast": "jñānaṃ jñeyaṃ tathā jñātā tritayaṃ nāsti vāstavam |\najñānād bhāti yatredaṃ so'ham asmi nirañjanaḥ ||",
+    "english": "Knowledge, the object of knowledge, and the knower — these three do not really exist. I am the spotless reality in which they appear through ignorance.",
+    "themes": [
+      "knowledge",
+      "self",
+      "consciousness",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "sanskrit": "द्वैतमूलमहो दुःखं नान्यत्तस्यास्ति भेषजम् ।\nदृश्यमेतन्मृषा सर्वमेकोऽहं चिद्रसोऽमलः ॥",
+    "iast": "dvaita-mūlam aho duḥkhaṃ nānyat tasyāsti bheṣajam |\ndṛśyam etan mṛṣā sarvam eko'haṃ cid-raso'malaḥ ||",
+    "english": "Duality is the root of suffering. There is no other remedy than the realization that all visible things are unreal and that I am one, pure consciousness.",
+    "themes": [
+      "duality",
+      "self",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 17,
+    "sanskrit": "बोधमात्रोऽहमज्ञानादुपाधिः कल्पितो मया ।\nएवं विमृशतो नित्यं निर्विकल्पे स्थितिर्मम ॥",
+    "iast": "bodha-mātro'ham ajñānād upādhiḥ kalpito mayā |\nevaṃ vimṛśato nityaṃ nirvikalpe sthitir mama ||",
+    "english": "I am pure awareness and through ignorance I have imagined limitations for myself. Reflecting on this constantly, I abide in the Absolute.",
+    "themes": [
+      "consciousness",
+      "self",
+      "knowledge",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 18,
+    "sanskrit": "न मे बन्धोऽस्ति मोक्षो वा भ्रान्तिः शान्ता निराश्रया ।\nअहो मयि स्थितं विश्वं वस्तुतो न मयि स्थितम् ॥",
+    "iast": "na me bandho'sti mokṣo vā bhrāntiḥ śāntā nirāśrayā |\naho mayi sthitaṃ viśvaṃ vastuto na mayi sthitam ||",
+    "english": "For me there is neither bondage nor liberation. The illusion has subsided and come to rest. The world appears to exist in me but in truth does not.",
+    "themes": [
+      "liberation",
+      "bondage",
+      "self",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 19,
+    "sanskrit": "स शरीरमिदं विश्वं न किञ्चिदिति निश्चितम् ।\nशुद्धचिन्मात्र आत्मा च तत्कस्मिन्कल्पनाधुना ॥",
+    "iast": "sa śarīram idaṃ viśvaṃ na kiñcid iti niścitam |\nśuddha-cin-mātra ātmā ca tat kasmin kalpanādhunā ||",
+    "english": "The body, the universe — this is nothing: I am certain of it. The Self is pure awareness alone — what is there to imagine now?",
+    "themes": [
+      "self",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "sanskrit": "शरीरं स्वर्गनरकौ बन्धमोक्षौ भयं तथा ।\nकल्पनामात्रमेवैतत्किं मे कार्यं चिदात्मनः ॥",
+    "iast": "śarīraṃ svarga-narakau bandha-mokṣau bhayaṃ tathā |\nkalpanā-mātram evāitat kiṃ me kāryaṃ cidātmanaḥ ||",
+    "english": "The body, heaven and hell, bondage and liberation, and fear too — all this is mere imagination. What have I to do with all this — I who am pure awareness?",
+    "themes": [
+      "self",
+      "consciousness",
+      "fear",
+      "liberation",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 21,
+    "sanskrit": "अहो जनसमूहेऽपि न द्वैतं पश्यतो मम ।\nअरण्यमिव संवृत्तं क्व रतिं करवाण्यहम् ॥",
+    "iast": "aho jana-samūhe'pi na dvaitaṃ paśyato mama |\naraṇyam iva saṃvṛttaṃ kva ratiṃ karavāṇy aham ||",
+    "english": "I see no duality even in a crowd of people. It has become like a wilderness. Where then should I find pleasure?",
+    "themes": [
+      "duality",
+      "detachment",
+      "self"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "sanskrit": "नाहं देहो न मे देहो जीवो नाहमहं हि चित् ।\nअयमेव हि मे बन्ध आसीद्या जीविते स्पृहा ॥",
+    "iast": "nāhaṃ deho na me deho jīvo nāham ahaṃ hi cit |\nayam eva hi me bandha āsīd yā jīvite spṛhā ||",
+    "english": "I am not the body, nor is the body mine. I am not a living being. I am awareness. My bondage was my thirst for life.",
+    "themes": [
+      "self",
+      "consciousness",
+      "bondage",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 23,
+    "sanskrit": "अहो भुवनकल्लोलैर्विचित्रैर्द्राक् समुत्थितम् ।\nमय्यनन्तमहाम्भोधौ चित्तवाते समुद्यते ॥",
+    "iast": "aho bhuvana-kallolaiḥ vicitraiḥ drāk samutthitam |\nmayy ananta-mahāmbhodhau citta-vāte samudyate ||",
+    "english": "In the infinite ocean of myself, the waves of worlds arise and vanish of their own accord, as the wind of the mind blows.",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 24,
+    "sanskrit": "मय्यनन्तमहाम्भोधौ चित्तवाते प्रशाम्यति ।\nअभाग्याज्जीववणिजो जगत्पोतो विनश्वरः ॥",
+    "iast": "mayy ananta-mahāmbhodhau citta-vāte praśāmyati |\nabhāgyāj jīva-vaṇijo jagat-poto vinaśvaraḥ ||",
+    "english": "When the wind of the mind subsides in the infinite ocean of myself, the poor vessel of the world with its cargo of separate beings is wrecked.",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 2,
+    "verse": 25,
+    "sanskrit": "मय्यनन्तमहाम्भोधावाश्चर्यं जीववीचयः ।\nउद्यन्ति घ्नन्ति खेलन्ति प्रविशन्ति स्वभावतः ॥",
+    "iast": "mayy ananta-mahāmbhodhāv āścaryaṃ jīva-vīcayaḥ |\nudyanti ghnanti khelanti praviśanti svabhāvataḥ ||",
+    "english": "How wonderful it is! In me, the infinite ocean, the waves of individual selves arise, collide, play, and disappear according to their nature.",
+    "themes": [
+      "self",
+      "consciousness",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 1,
+    "sanskrit": "अष्टावक्र उवाच ।\nअविनाशिनमात्मानमेकं विज्ञाय तत्त्वतः ।\nतवात्मज्ञस्य धीरस्य कथमर्थार्जने रतिः ॥",
+    "iast": "aṣṭāvakra uvāca |\navināśinam ātmānam ekaṃ vijñāya tattvataḥ |\ntavātma-jñasya dhīrasya katham arthārjane ratiḥ ||",
+    "english": "Ashtavakra said: Knowing yourself as truly one and indestructible, how could a wise person like you take pleasure in acquiring wealth?",
+    "themes": [
+      "self",
+      "detachment",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 2,
+    "sanskrit": "आत्माज्ञानाद्धो भवेत्प्रीतिर्विषयभ्रमगोचरे ।\nशुक्तेरज्ञानतो लोभो यथा रजतविभ्रमे ॥",
+    "iast": "ātmājñānād dho bhavet prītir viṣaya-bhrama-gocare |\nśukter ajñānato lobho yathā rajata-vibhrame ||",
+    "english": "Just as the ignorance of the true nature of mother-of-pearl causes desire for the silver illusion, so ignorance of the Self causes attraction to sense objects.",
+    "themes": [
+      "desire",
+      "knowledge",
+      "self",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 3,
+    "sanskrit": "विश्वं स्फुरति यत्रेदं तरङ्गा इव सागरे ।\nसोऽहमस्मीति विज्ञाय किं दीन इव धावसि ॥",
+    "iast": "viśvaṃ sphurati yatredaṃ taraṅgā iva sāgare |\nso'ham asmīti vijñāya kiṃ dīna iva dhāvasi ||",
+    "english": "Having realized that you are That in which the universe appears like waves in the ocean, why do you run around like a poor man?",
+    "themes": [
+      "self",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 4,
+    "sanskrit": "श्रुत्वापि शुद्धचैतन्यमात्मानमतिसुन्दरम् ।\nउपस्थेऽत्यन्तसंसक्तो मालिन्यमधिगच्छति ॥",
+    "iast": "śrutvāpi śuddha-caitanyam ātmānam ati-sundaram |\nupasthe'tyanta-saṃsakto mālinyam adhigacchati ||",
+    "english": "Having heard that you are pure consciousness and supremely beautiful, how can you still be subject to sensuality and remain impure?",
+    "themes": [
+      "consciousness",
+      "desire",
+      "self",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 5,
+    "sanskrit": "सर्वभूतेषु चात्मानं सर्वभूतानि चात्मनि ।\nमुनेर्जानत आश्चर्यं ममत्वमनुवर्तते ॥",
+    "iast": "sarva-bhūteṣu cātmānaṃ sarva-bhūtāni cātmani |\nmuner jānata āścaryaṃ mamatvam anuvartate ||",
+    "english": "It is strange that in a sage who has realized the Self in all beings and all beings in the Self, the sense of 'mine' should persist.",
+    "themes": [
+      "self",
+      "witness",
+      "ego",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 6,
+    "sanskrit": "आस्थितः परमाद्वैतं मोक्षार्थेऽपि व्यवस्थितः ।\nआश्चर्यं कामवशगो विकलः केलिशिक्षया ॥",
+    "iast": "āsthitaḥ paramādvaitaṃ mokṣārthe'pi vyavasthitaḥ |\nāścaryaṃ kāma-vaśago vikalaḥ keli-śikṣayā ||",
+    "english": "It is strange that one abiding in the supreme non-duality and intent on liberation should still be subject to lust and the ways of pleasure.",
+    "themes": [
+      "duality",
+      "liberation",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 7,
+    "sanskrit": "आश्चर्यं मृत्युमासाद्य दुर्बलः कामकन्दले ।\nआश्चर्यं शिथिलो बुद्ध्या कामो वेगेन धावति ॥",
+    "iast": "āścaryaṃ mṛtyum āsādya durbalaḥ kāma-kandale |\nāścaryaṃ śithilo buddhyā kāmo vegena dhāvati ||",
+    "english": "It is strange that knowing desire to be the enemy and death to be approaching, one still runs so weakly after pleasure.",
+    "themes": [
+      "desire",
+      "fear",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "sanskrit": "इहामुत्र विरक्तस्य नित्यानित्यविवेकिनः ।\nआश्चर्यं मोक्षकामस्य मोक्षाद्वैव बिभ्यतः ॥",
+    "iast": "ihāmutra viraktasya nityānitya-vivekinaḥ |\nāścaryaṃ mokṣa-kāmasya mokṣād eva bibhyataḥ ||",
+    "english": "It is strange that one who is detached from the world and can discriminate between the eternal and non-eternal should still fear liberation.",
+    "themes": [
+      "detachment",
+      "liberation",
+      "fear"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 9,
+    "sanskrit": "धीरस्तु भोज्यमानोऽपि पीड्यमानोऽपि सर्वदा ।\nआत्मानं केवलं पश्यन्न तुष्यति न कुप्यति ॥",
+    "iast": "dhīras tu bhojyamāno'pi pīḍyamāno'pi sarvadā |\nātmānaṃ kevalaṃ paśyan na tuṣyati na kupyati ||",
+    "english": "The wise one, whether feted or tormented, always sees only the Self and is neither pleased nor angered.",
+    "themes": [
+      "witness",
+      "self",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "sanskrit": "चेष्टमानं शरीरं स्वं पश्यत्यन्यशरीरवत् ।\nसंस्तवे चापि निन्दायां कथं क्षुभ्येत् महाशयः ॥",
+    "iast": "ceṣṭamānaṃ śarīraṃ svaṃ paśyaty anya-śarīravat |\nsaṃstave cāpi nindāyāṃ kathaṃ kṣubhyet mahāśayaḥ ||",
+    "english": "The great soul sees even its own body in action as if it were the body of another. How could such a one be disturbed by praise or blame?",
+    "themes": [
+      "witness",
+      "detachment",
+      "self",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 11,
+    "sanskrit": "मायामात्रमिदं विश्वं पश्यन्विगतकौतुकः ।\nअपि सन्निहिते मृत्यौ कथं त्रस्यति धीरधीः ॥",
+    "iast": "māyā-mātram idaṃ viśvaṃ paśyan vigata-kautukaḥ |\napi sannihite mṛtyau kathaṃ trasyati dhīra-dhīḥ ||",
+    "english": "Seeing the world as mere illusion, free from curiosity, how could the steadfast one fear even the approach of death?",
+    "themes": [
+      "fear",
+      "detachment",
+      "knowledge",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 12,
+    "sanskrit": "निःस्पृहं मानसं यस्य नैराश्येऽपि महात्मनः ।\nतस्यात्मज्ञानतृप्तस्य तुलना केन जायते ॥",
+    "iast": "niḥspṛhaṃ mānasaṃ yasya nairāśye'pi mahātmanaḥ |\ntasyātma-jñāna-tṛptasya tulanā kena jāyate ||",
+    "english": "Who can compare with the great soul whose mind is desireless even in disappointment and who is satisfied with the knowledge of Self alone?",
+    "themes": [
+      "detachment",
+      "knowledge",
+      "self",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 13,
+    "sanskrit": "स्वभावादेव जानानो दृश्यमेतन्न किञ्चन ।\nइदं ग्राह्यमिदं त्याज्यं स किं पश्यति धीरधीः ॥",
+    "iast": "svabhāvād eva jānāno dṛśyam etan na kiñcana |\nidaṃ grāhyam idaṃ tyājyaṃ sa kiṃ paśyati dhīra-dhīḥ ||",
+    "english": "For the one who naturally sees nothing to grasp and nothing to reject, what is there to accept or abandon?",
+    "themes": [
+      "detachment",
+      "witness",
+      "self"
+    ]
+  },
+  {
+    "chapter": 3,
+    "verse": 14,
+    "sanskrit": "अन्तस्त्यक्तकषायस्य निर्द्वन्द्वस्य निराशिषः ।\nयदृच्छयागतो भोगो न दुःखाय न तुष्टये ॥",
+    "iast": "antas tyakta-kaṣāyasya nirdvandvasya nirāśiṣaḥ |\nyadṛcchayāgato bhogo na duḥkhāya na tuṣṭaye ||",
+    "english": "For one whose inner impurities are washed away, who is beyond duality and free from expectation, pleasure that comes of its own accord brings neither pain nor joy.",
+    "themes": [
+      "peace",
+      "detachment",
+      "duality",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 1,
+    "sanskrit": "हन्तात्मज्ञस्य धीरस्य खेलतो भोगलीलया ।\nन हि संसारवाहीकैर्मूढैः सह समानता ॥",
+    "iast": "hantātma-jñasya dhīrasya khelato bhoga-līlayā |\nna hi saṃsāra-vāhīkair mūḍhaiḥ saha samānatā ||",
+    "english": "There is no comparison between the wise one who plays in the world like a child and the deluded who carry the burden of worldly life.",
+    "themes": [
+      "liberation",
+      "bliss",
+      "self",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 2,
+    "sanskrit": "यत्पदं प्रेप्सवो दीनाः शक्राद्याः सर्वदेवताः ।\nअहो तत्र स्थितो योगी न हर्षमुपगच्छति ॥",
+    "iast": "yat padaṃ prepsavo dīnāḥ śakrādyāḥ sarva-devatāḥ |\naho tatra sthito yogī na harṣam upagacchati ||",
+    "english": "Even the gods including Indra yearn for that state. The yogi, established in it, feels no elation.",
+    "themes": [
+      "liberation",
+      "peace",
+      "self",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 3,
+    "sanskrit": "तज्ज्ञस्य पुण्यपापाभ्यां स्पर्शो ह्यन्तर्न जायते ।\nन ह्याकाशस्य धूमेन दृश्यमानेऽपि सङ्गतिः ॥",
+    "iast": "taj-jñasya puṇya-pāpābhyāṃ sparśo hy antar na jāyate |\nna hy ākāśasya dhūmena dṛśyamāne'pi saṅgatiḥ ||",
+    "english": "The knower of truth is not inwardly touched by good or evil deeds, just as space is not touched by smoke even though it appears to be.",
+    "themes": [
+      "detachment",
+      "witness",
+      "self",
+      "action"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 4,
+    "sanskrit": "आत्मैवेदं जगत्सर्वं ज्ञातं येन महात्मना ।\nयदृच्छया वर्तमानं तं निषेद्धुं क्षमेत कः ॥",
+    "iast": "ātmaivedaṃ jagat sarvaṃ jñātaṃ yena mahātmanā |\nyadṛcchayā vartamānaṃ taṃ niṣeddhuṃ kṣameta kaḥ ||",
+    "english": "Who can prevent the great soul who has known all this world as the Self alone from living as he pleases?",
+    "themes": [
+      "self",
+      "liberation",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 5,
+    "sanskrit": "आब्रह्मस्तम्बपर्यन्ते भूतग्रामे चतुर्विधे ।\nविज्ञस्यैव हि सामर्थ्यमिच्छानिच्छाविवर्जने ॥",
+    "iast": "ā-brahma-stamba-paryante bhūta-grāme catur-vidhe |\nvijñasyaiva hi sāmarthyam icchā-nicchā-vivarjane ||",
+    "english": "Among all four types of beings from Brahma down to a blade of grass, only the knower has the ability to give up desire and aversion.",
+    "themes": [
+      "knowledge",
+      "desire",
+      "detachment",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 4,
+    "verse": 6,
+    "sanskrit": "आत्मानमद्वयं कश्चिज्जानाति जगदीश्वरम् ।\nयद्वेत्ति तत्स कुरुते न भयं तस्य कुत्रचित् ॥",
+    "iast": "ātmānam advayaṃ kaścij jānāti jagad-īśvaram |\nyad vetti tat sa kurute na bhayaṃ tasya kutracit ||",
+    "english": "Rare is the one who knows the Self as the undivided lord of the world. Such a one does what comes naturally and has no fear of anything.",
+    "themes": [
+      "self",
+      "knowledge",
+      "fear",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 5,
+    "verse": 1,
+    "sanskrit": "अष्टावक्र उवाच ।\nन ते सङ्गोऽस्ति केनापि किं शुद्धस्त्यक्तुमिच्छसि ।\nसङ्घातविलयं कुर्वन्नेवमेव लयं व्रज ॥",
+    "iast": "aṣṭāvakra uvāca |\nna te saṅgo'sti kenāpi kiṃ śuddhas tyaktum icchasi |\nsaṅghāta-vilayaṃ kurvann evam eva layaṃ vraja ||",
+    "english": "Ashtavakra said: You have no attachment to anything. What do you wish to renounce? Dissolving the body-mind complex, enter dissolution.",
+    "themes": [
+      "detachment",
+      "dissolution",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 5,
+    "verse": 2,
+    "sanskrit": "उद्भूतं ज्ञानदुर्मित्रं धैर्येणैव विलीयते ।\nइदमेव हि सन्दर्शनमकार्यमिव कर्मणा ॥",
+    "iast": "udbhūtaṃ jñāna-durmitraṃ dhairyeṇaiva vilīyate |\nidam eva hi san-darśanam akāryam iva karmaṇā ||",
+    "english": "The world rises from you like foam from the sea. Know the Self as one and in this way enter dissolution.",
+    "themes": [
+      "self",
+      "dissolution",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "sanskrit": "विश्वं प्रत्यक्षमप्येतन्नास्त्यनन्तविग्रहे ।\nसमुद्रे वासना शून्ये स्फुरत्यपि न स्फुरत् ॥",
+    "iast": "viśvaṃ pratyakṣam apy etan nāsty ananta-vigrahe |\nsamudre vāsanā śūnye sphurati api na sphurat ||",
+    "english": "Though the world appears before you, it does not really exist in the infinite Self — like an illusory ocean that appears to shimmer but does not.",
+    "themes": [
+      "self",
+      "consciousness",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 5,
+    "verse": 4,
+    "sanskrit": "तन्तुमात्रो भवेदेव पटो यद्वद्विचारितः ।\nसदात्मतन्मात्रमेवेदं तद्वद्विश्वं विचारितम् ॥",
+    "iast": "tantu-mātro bhaved eva paṭo yadvad vicāritaḥ |\nsadātma-tan-mātram evedaṃ tadvad viśvaṃ vicāritam ||",
+    "english": "As cloth when examined is found to be nothing but thread, so this world examined is nothing but the Self.",
+    "themes": [
+      "self",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "sanskrit": "आकाशवदनन्तोऽहं घटवत्प्राकृतं जगत् ।\nइति ज्ञानं तथैतस्य न त्यागो न ग्रहो लयः ॥",
+    "iast": "ākāśavad ananto'haṃ ghaṭavat prākṛtaṃ jagat |\niti jñānaṃ tathaītasya na tyāgo na graho layaḥ ||",
+    "english": "I am infinite like space, the world is like a pot. This is knowledge. There is nothing to accept, reject, or dissolve.",
+    "themes": [
+      "self",
+      "knowledge",
+      "consciousness",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 6,
+    "verse": 2,
+    "sanskrit": "महोदधिरिवाहं स प्रपञ्चो वीचिसन्निभः ।\nइति ज्ञानं तथैतस्य न त्यागो न ग्रहो लयः ॥",
+    "iast": "mahodadhir ivāhaṃ sa prapañco vīci-sannibhaḥ |\niti jñānaṃ tathaītasya na tyāgo na graho layaḥ ||",
+    "english": "I am like the great ocean and the world is like a wave. This is knowledge. There is nothing to accept, reject, or dissolve.",
+    "themes": [
+      "self",
+      "consciousness",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 6,
+    "verse": 3,
+    "sanskrit": "अहं स शुक्तिसंकाशो रूप्यवद्विश्वकल्पना ।\nइति ज्ञानं तथैतस्य न त्यागो न ग्रहो लयः ॥",
+    "iast": "ahaṃ sa śukti-saṃkāśo rūpyavad viśva-kalpanā |\niti jñānaṃ tathaītasya na tyāgo na graho layaḥ ||",
+    "english": "I am like mother-of-pearl and the imagined world is like the silver. This is knowledge. There is nothing to accept, reject, or dissolve.",
+    "themes": [
+      "self",
+      "knowledge",
+      "consciousness",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 6,
+    "verse": 4,
+    "sanskrit": "अहं वा सर्वभूतेषु सर्वभूतान्यथो मयि ।\nइति ज्ञानं तथैतस्य न त्यागो न ग्रहो लयः ॥",
+    "iast": "ahaṃ vā sarva-bhūteṣu sarva-bhūtāny atho mayi |\niti jñānaṃ tathaītasya na tyāgo na graho layaḥ ||",
+    "english": "I am in all beings and all beings are in me. This is knowledge. There is nothing to accept, reject, or dissolve.",
+    "themes": [
+      "self",
+      "consciousness",
+      "witness",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 7,
+    "verse": 1,
+    "sanskrit": "मय्यनन्तमहाम्भोधौ विश्वपोत इतस्ततः ।\nभ्रमति स्वान्तवातेन न ममास्त्यसहिष्णुता ॥",
+    "iast": "mayy ananta-mahāmbhodhau viśva-pota itas tataḥ |\nbhramati svānta-vātena na mamāsty asahiṣṇutā ||",
+    "english": "In me, the infinite ocean, the ship of the world drifts here and there driven by the wind of its own nature. I am not impatient.",
+    "themes": [
+      "self",
+      "peace",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 7,
+    "verse": 2,
+    "sanskrit": "मय्यनन्तमहाम्भोधौ जगद्वीचिः स्वभावतः ।\nउदेतु वास्तमायातु न मे वृद्धिर्न च क्षतिः ॥",
+    "iast": "mayy ananta-mahāmbhodhau jagad-vīciḥ svabhāvataḥ |\nudetu vāstam āyātu na me vṛddhir na ca kṣatiḥ ||",
+    "english": "In me, the infinite ocean, let the wave of the world rise or vanish of itself. I am neither increased nor diminished.",
+    "themes": [
+      "self",
+      "peace",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "sanskrit": "मय्यनन्तमहाम्भोधौ विश्वं नाम विकल्पना ।\nअतिशान्तो निराकार एतदेवाहमास्थितः ॥",
+    "iast": "mayy ananta-mahāmbhodhau viśvaṃ nāma vikalpanā |\natiśānto nirākāra etad evāham āsthitaḥ ||",
+    "english": "In me, the infinite ocean, the world is merely a name and an imagining. I am utterly still and formless. In this alone I rest.",
+    "themes": [
+      "self",
+      "peace",
+      "silence",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "sanskrit": "नात्मा भावेषु नो भावस्तत्रानन्ते निरञ्जने ।\nइत्यसक्तोऽस्पृहः शान्त एतदेवाहमास्थितः ॥",
+    "iast": "nātmā bhāveṣu no bhāvas tatrānante nirañjane |\nity asakto'spṛhaḥ śānta etad evāham āsthitaḥ ||",
+    "english": "The Self is not in objects, nor are objects in the infinite, spotless Self. It is free of desire, at peace. In this alone I rest.",
+    "themes": [
+      "self",
+      "detachment",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 7,
+    "verse": 5,
+    "sanskrit": "अहो चिन्मात्रमेवाहमिन्द्रजालोपमं जगत् ।\nइति मम कथं कुत्र हेयोपादेयकल्पना ॥",
+    "iast": "aho cin-mātram evāham indra-jālopamaṃ jagat |\niti mama kathaṃ kutra heyopādeya-kalpanā ||",
+    "english": "I am pure consciousness alone and the world is like a magic show. How then could any thought of acceptance or rejection arise in me?",
+    "themes": [
+      "consciousness",
+      "self",
+      "detachment",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 8,
+    "verse": 1,
+    "sanskrit": "अष्टावक्र उवाच ।\nतदा बन्धो यदा चित्तं किञ्चिद्वाञ्छति शोचति ।\nकिञ्चिन्मुञ्चति गृह्णाति किञ्चिद्दृष्यति कुप्यति ॥",
+    "iast": "aṣṭāvakra uvāca |\ntadā bandho yadā cittaṃ kiñcid vāñchati śocati |\nkiñcin muñcati gṛhṇāti kiñcid dṛṣyati kupyati ||",
+    "english": "Ashtavakra said: Bondage is when the mind desires something, grieves about something, rejects something, accepts something, is pleased or displeased about something.",
+    "themes": [
+      "bondage",
+      "desire",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 8,
+    "verse": 2,
+    "sanskrit": "तदा मुक्तिर्यदा चित्तं न वाञ्छति न शोचति ।\nन मुञ्चति न गृह्णाति न हृष्यति न कुप्यति ॥",
+    "iast": "tadā muktir yadā cittaṃ na vāñchati na śocati |\nna muñcati na gṛhṇāti na hṛṣyati na kupyati ||",
+    "english": "Liberation is when the mind does not desire, grieve, reject, accept, and is not pleased or displeased.",
+    "themes": [
+      "liberation",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 8,
+    "verse": 3,
+    "sanskrit": "तदा बन्धो यदा चित्तं सक्तं काश्वपि दृष्टिषु ।\nतदा मोक्षो यदा चित्तमसक्तं सर्वदृष्टिषु ॥",
+    "iast": "tadā bandho yadā cittaṃ saktaṃ kāśv api dṛṣṭiṣu |\ntadā mokṣo yadā cittam asaktaṃ sarva-dṛṣṭiṣu ||",
+    "english": "Bondage is when the mind clings to any sense experience. Liberation is when the mind is not attached to any sense experience.",
+    "themes": [
+      "bondage",
+      "liberation",
+      "detachment",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 8,
+    "verse": 4,
+    "sanskrit": "यदा नाहं तदा मोक्षो यदाहं बन्धनं तदा ।\nमत्वेति हेलया किञ्चिन्मा गृहाण विमुञ्च मा ॥",
+    "iast": "yadā nāhaṃ tadā mokṣo yadāhaṃ bandhanaṃ tadā |\nmatveti helayā kiñcin mā gṛhāṇa vimuñca mā ||",
+    "english": "When there is no 'I' there is liberation; when there is 'I' there is bondage. Knowing this, it is easy — neither accept nor reject anything.",
+    "themes": [
+      "ego",
+      "liberation",
+      "bondage",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 1,
+    "sanskrit": "कृताकृते च द्वन्द्वानि कदा शान्तानि कस्य वा ।\nएवं ज्ञात्वेह निर्वेदाद्भव त्यागपरोऽवरतः ॥",
+    "iast": "kṛtākṛte ca dvandvāni kadā śāntāni kasya vā |\nevaṃ jñātvēha nirvedād bhava tyāga-paro'vrataḥ ||",
+    "english": "When do the pairs of opposites — done and not done — cease, and for whom? Knowing this, become devoted to renunciation and indifference to the world.",
+    "themes": [
+      "duality",
+      "detachment",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 2,
+    "sanskrit": "कस्यापि तात धन्यस्य लोकचेष्टावलोकनात् ।\nजीवितेच्छा बुभुक्षा च बुभुत्सा चोपशाम्यति ॥",
+    "iast": "kasyāpi tāta dhanyasya loka-ceṣṭāvalokanāt |\njīvitecchā bubhukṣā ca bubhutsā copaśāmyati ||",
+    "english": "Rare is the blessed one in whom the desire to live, the desire to enjoy, and the desire to know are extinguished through observing the ways of the world.",
+    "themes": [
+      "detachment",
+      "desire",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 3,
+    "sanskrit": "अनित्यं सर्वमेवेदं तापत्रितयदूषितम् ।\nअसारं निन्दितं हेयमिति निश्चित्य शाम्यति ॥",
+    "iast": "anityaṃ sarvam evedaṃ tāpa-tritaya-dūṣitam |\nasāraṃ ninditaṃ heyam iti niścitya śāmyati ||",
+    "english": "All this is transient, tainted with threefold suffering, without substance, worthy of rejection. Knowing this, one finds peace.",
+    "themes": [
+      "detachment",
+      "peace",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 6,
+    "sanskrit": "भावनाभावनासक्ता दृष्टिर्भवति भाविनी ।\nभावनाभावनामुक्ता दृष्टिस्ते भवति स्थिता ॥",
+    "iast": "bhāvanā-bhāvanā-saktā dṛṣṭir bhavati bhāvinī |\nbhāvanā-bhāvanā-muktā dṛṣṭis te bhavati sthitā ||",
+    "english": "Vision attached to thinking and not-thinking is still unstable. Vision free from both thinking and not-thinking is established.",
+    "themes": [
+      "silence",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 1,
+    "sanskrit": "विहाय वैरिणं कामं अर्थं चानर्थसंकुलम् ।\nधर्ममप्येतयोर्हेतुं सर्वत्रानादरं कुरु ॥",
+    "iast": "vihāya vairiṇaṃ kāmam arthaṃ cānartha-saṃkulam |\ndharmam apy etayor hetuṃ sarvatrānādaraṃ kuru ||",
+    "english": "Give up desire which is the enemy, prosperity which involves adversity, and even duty which causes both — be indifferent to everything.",
+    "themes": [
+      "desire",
+      "detachment",
+      "action"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 2,
+    "sanskrit": "स्वप्नेन्द्रजालसंकाशं जगदेतद्विचारितम् ।\nएवं चिन्तय तत्त्वार्थमेवं नोपरमो भवेत् ॥",
+    "iast": "svapnendrajāla-saṃkāśaṃ jagad etad vicāritam |\nevaṃ cintaya tattvārtham evaṃ noparamo bhavet ||",
+    "english": "Look upon the world as a dream and a magic show. Thinking thus, you will come to rest.",
+    "themes": [
+      "knowledge",
+      "peace",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 7,
+    "sanskrit": "न शान्तो न विशुद्धो वा श्रान्तो वा गतसंसारः ।\nमहामोहमयी सृष्टिः किं मे बुद्धिमता सह ॥",
+    "iast": "na śānto na viśuddho vā śrānto vā gata-saṃsāraḥ |\nmahā-moha-mayī sṛṣṭiḥ kiṃ me buddhimatā saha ||",
+    "english": "There is no peace, no purity, no weariness, no release from the world — only the great delusion. What have I, the intelligent one, to do with it?",
+    "themes": [
+      "peace",
+      "liberation",
+      "knowledge",
+      "self"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 1,
+    "sanskrit": "भावाभावविकारश्च स्वभावादिति निश्चयी ।\nनिर्विकारो गतक्लेशः सुखेनैवोपशाम्यति ॥",
+    "iast": "bhāvābhāva-vikāraś ca svabhāvād iti niścayī |\nnirvikāro gata-kleśaḥ sukhenaivopaśāmyati ||",
+    "english": "Existence and non-existence arise from one's nature — knowing this with certainty, the changeless one finds easy rest, free from suffering.",
+    "themes": [
+      "self",
+      "peace",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 7,
+    "sanskrit": "वस्तुतस्त्वमसीत्युक्तः प्रत्यात्मज्ञानवान्पुमान् ।\nकिमिच्छति विकल्पस्य स्थानमस्य भवत्यतः ॥",
+    "iast": "vastutaḥ tvam asīty uktaḥ pratyātma-jñānavān pumān |\nkim icchati vikalpasya sthānam asya bhavaty ataḥ ||",
+    "english": "When one has been told 'You are That' and has direct Self-knowledge, what can one desire? For such a one, what room is there for doubt?",
+    "themes": [
+      "self",
+      "knowledge",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 1,
+    "sanskrit": "कायकृत्यासहः पूर्वं ततो वाग्विस्तरासहः ।\nअथ चिन्तासहस्तस्मादेवमेवाहमास्थितः ॥",
+    "iast": "kāya-kṛtyāsahaḥ pūrvaṃ tato vāg-vistarāsahaḥ |\natha cintāsahas tasmād evam evāham āsthitaḥ ||",
+    "english": "First comes inability to act, then inability to speak, then inability to think — thus I abide.",
+    "themes": [
+      "silence",
+      "self",
+      "peace",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 5,
+    "sanskrit": "न मे रागो न मे द्वेषो न मे लोभो न मे मोहः ।\nन मे दृप्तिर्न मात्सर्यं न मे धर्मो न चार्थभाक् ॥",
+    "iast": "na me rāgo na me dveṣo na me lobho na me mohaḥ |\nna me dṛptir na mātsaryaṃ na me dharmo na cārthabhāk ||",
+    "english": "I have no attachment, no aversion, no greed, no delusion, no pride, no envy. I have no duty, no need for wealth.",
+    "themes": [
+      "detachment",
+      "peace",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nप्रकृत्यैव विरक्तस्य ज्ञानिनो ज्ञानदर्शिनः ।\nनैवाद्भुतं मनस्तस्य लोकक्रीडनकेऽर्थवत् ॥",
+    "iast": "janaka uvāca |\nprakṛtyaiva viraktasya jñānino jñāna-darśinaḥ |\nnaivādbhutaṃ manas tasya loka-krīḍanake'rthavat ||",
+    "english": "Janaka said: For the knower who is naturally detached and sees only knowledge, it is no wonder that the mind plays with the world as with a toy.",
+    "themes": [
+      "knowledge",
+      "detachment",
+      "self",
+      "witness"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verse": 3,
+    "sanskrit": "प्रारब्धानि विकर्माणि कथमेतद्धृतिः सुखम् ।\nइत्यालोच्य तदा तदा मनन्दत्वादुपशाम्यति ॥",
+    "iast": "prārabdhāni vikarmāṇi katham etad dhṛtiḥ sukham |\nity ālocya tadā tadā manandatvād upaśāmyati ||",
+    "english": "How can the mind that has realized its own nature be troubled by actions begun in the past? It subsides naturally through indifference.",
+    "themes": [
+      "action",
+      "peace",
+      "detachment",
+      "self"
+    ]
+  },
+  {
+    "chapter": 14,
+    "verse": 1,
+    "sanskrit": "अष्टावक्र उवाच ।\nप्राप्तं यदिच्छया ज्ञानमभ्यासादपि वा भवेत् ।\nधन्यस्य पुण्यकर्मस्य विरक्तस्येह सर्वतः ॥",
+    "iast": "aṣṭāvakra uvāca |\nprāptaṃ yad icchayā jñānam abhyāsād api vā bhavet |\ndhanyasya puṇya-karmasya viraktasya iha sarvataḥ ||",
+    "english": "Ashtavakra said: Blessed is the one who has achieved knowledge through desire or practice, and who is detached from everything here.",
+    "themes": [
+      "knowledge",
+      "detachment",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 14,
+    "verse": 4,
+    "sanskrit": "मुनिर्विश्रान्तचित्तात्मा न कर्ता यदि वा स्थितः ।\nयत्र यत्र मनो याति तत्र तत्र परं पदम् ॥",
+    "iast": "munir viśrānta-cittātmā na kartā yadi vā sthitaḥ |\nyatra yatra mano yāti tatra tatra paraṃ padam ||",
+    "english": "The sage whose mind rests in the Self is not a doer even if acting. Wherever the mind goes, it finds only the supreme state.",
+    "themes": [
+      "witness",
+      "self",
+      "action",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 1,
+    "sanskrit": "यथातथोपदेशेन कृतार्थः सत्त्वबुद्धिमान् ।\nआजीवमपि जिज्ञासुः परस्तत्र विमुह्यति ॥",
+    "iast": "yathā-tathopadeśena kṛtārthaḥ sattva-buddhimān |\nājīvam api jijñāsuḥ paras tatra vimuhyati ||",
+    "english": "The one of pure intellect achieves fulfillment through the simplest teaching. Another may study their whole life and remain confused.",
+    "themes": [
+      "knowledge",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 5,
+    "sanskrit": "मुक्तौ विषयविरक्तिर्बन्धे विषयवासना ।\nइत्येतद्विद्धि विज्ञानमततः कुरु यद्यसि ॥",
+    "iast": "muktau viṣaya-viraktir bandhe viṣaya-vāsanā |\nity etad viddhi vijñānam tataḥ kuru yad yasi ||",
+    "english": "Dispassion toward sense objects is liberation; passion for sense objects is bondage. This is knowledge. Now do as you please.",
+    "themes": [
+      "liberation",
+      "bondage",
+      "desire",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 11,
+    "sanskrit": "क्व धर्मः क्व च वा कामः क्व चार्थः क्व विवेकिता ।\nइदं कृतमिदं नेति द्वन्द्वैर्मुक्तस्य सर्वदा ॥",
+    "iast": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekitā |\nidaṃ kṛtam idaṃ neti dvandvair muktasya sarvadā ||",
+    "english": "Where is duty, where is desire, where is wealth, where is discrimination for one who is always free from pairs of opposites — 'this is done, this is not done'?",
+    "themes": [
+      "detachment",
+      "duality",
+      "liberation",
+      "action"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 1,
+    "sanskrit": "अष्टावक्र उवाच ।\nआचक्ष्व शृणु वा तात नानाशास्त्राण्यनेकशः ।\nतथापि न तव स्वास्थ्यं सर्वविस्मरणाद्ऋते ॥",
+    "iast": "aṣṭāvakra uvāca |\nācakṣva śṛṇu vā tāta nānā-śāstrāṇy anekaśaḥ |\ntathāpi na tava svāsthyaṃ sarva-vismaraṇād ṛte ||",
+    "english": "Ashtavakra said: You may recite or listen to countless scriptures, but you will not be established in the Self until you can forget everything.",
+    "themes": [
+      "knowledge",
+      "self",
+      "silence",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 2,
+    "sanskrit": "भोगं कर्म समाधिं वा कुरु विज्ञ तथापि ते ।\nचित्तं निरस्तसर्वाशमत्यर्थं रोचयिष्यति ॥",
+    "iast": "bhogaṃ karma samādhiṃ vā kuru vijña tathāpi te |\ncittaṃ nirasta-sarvāśam atyarthaṃ rocayiṣyati ||",
+    "english": "You may enjoy, work, or meditate, but the mind will still yearn for That which is beyond all aims and desires.",
+    "themes": [
+      "desire",
+      "self",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 10,
+    "sanskrit": "निर्वासनं हरेर्लिङ्गं निर्वासनमिहोच्यते ।\nसोऽविचार्य स्थितो योगी स्वयमेव विलीयते ॥",
+    "iast": "nirvāsanaṃ harer liṅgaṃ nirvāsanam ihocyate |\nso'vicārya sthito yogī svayam eva vilīyate ||",
+    "english": "Freedom from desire is the mark of the divine. The yogi established beyond thought dissolves of their own accord.",
+    "themes": [
+      "desire",
+      "liberation",
+      "dissolution",
+      "silence"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 1,
+    "sanskrit": "तेन ज्ञानफलं प्राप्तं योगाभ्यासफलं तथा ।\nतृप्तः स्वच्छेन्द्रियः सर्वदैकाकी रमते तु यः ॥",
+    "iast": "tena jñāna-phalaṃ prāptaṃ yogābhyāsa-phalaṃ tathā |\ntṛptaḥ svacchendriyaḥ sarvadaikākī ramate tu yaḥ ||",
+    "english": "The one who is content, whose senses are pure, who always enjoys solitude — that one has attained the fruit of knowledge and the fruit of yoga.",
+    "themes": [
+      "peace",
+      "bliss",
+      "self",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 4,
+    "sanskrit": "शोकमोहौ सुखं दुःखं इत्यात्मनि न विद्यते ।\nन चिन्तारूपमप्यस्य देहस्येह चरिष्यतः ॥",
+    "iast": "śoka-mohau sukhaṃ duḥkhaṃ ity ātmani na vidyate |\nna cintā-rūpam apy asya dehasya iha cariṣyataḥ ||",
+    "english": "Grief, delusion, joy, and sorrow do not exist in the Self. The one whose body moves through life has no anxiety whatsoever.",
+    "themes": [
+      "self",
+      "peace",
+      "witness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 10,
+    "sanskrit": "निर्ममो निरहंकारो न किञ्चिदिति निश्चितः ।\nअन्तर्गलितसर्वाशः कुर्वन्नपि करोति न ॥",
+    "iast": "nirmamo nirahaṃkāro na kiñcid iti niścitaḥ |\nantar-galita-sarvāśaḥ kurvann api karoti na ||",
+    "english": "Free from 'mine' and 'I', certain that nothing exists, all inner desires having melted away — such a one does not act even when acting.",
+    "themes": [
+      "ego",
+      "action",
+      "detachment",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 20,
+    "sanskrit": "मुक्तो विषयद्वेष्टा बन्धे चेद्विषयेप्सकः ।\nबन्धो विबन्धो नास्त्यत्र सुखात्संक्षेपतो ब्रवे ॥",
+    "iast": "mukto viṣaya-dveṣṭā bandhe ced viṣayepsakaḥ |\nbandho vibandho nāsty atra sukhāt saṃkṣepato brave ||",
+    "english": "Free is one who does not cling to sense objects; bound is one who craves them. But in truth there is neither bondage nor liberation. In brief, this is all there is to say happily.",
+    "themes": [
+      "liberation",
+      "bondage",
+      "desire",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nयस्य बोधोदये तावत्स्वप्नवद्भवति भ्रमः ।\nतस्मै सुखात्मने नमः शान्ताय परमात्मने ॥",
+    "iast": "janaka uvāca |\nyasya bodhodaye tāvat svapnavad bhavati bhramaḥ |\ntasmai sukhātmane namaḥ śāntāya paramātmane ||",
+    "english": "Janaka said: Salutations to that supreme Self, blissful and peaceful, upon whose awakening the world becomes like a dream.",
+    "themes": [
+      "self",
+      "peace",
+      "bliss",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 2,
+    "sanskrit": "अर्जितं च मया वित्तं सर्वत्रोपार्जितं मया ।\nतथापि सर्वमार्गेण विपदामेव भाजनम् ॥",
+    "iast": "arjitaṃ ca mayā vittaṃ sarvatropārjitaṃ mayā |\ntathāpi sarva-mārgeṇa vipadām eva bhājanam ||",
+    "english": "I have earned wealth in all places through all means, yet it has only brought me to misery.",
+    "themes": [
+      "desire",
+      "detachment",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 5,
+    "sanskrit": "अहो न किञ्चिदस्तीह वस्तु मन्दस्य मे पुरा ।\nयस्य निश्चयमात्रेण निर्विकल्पमुपैमि तत् ॥",
+    "iast": "aho na kiñcid astīha vastu mandasya me purā |\nyasya niścaya-mātreṇa nirvikalpam upaimi tat ||",
+    "english": "Truly nothing exists — how foolish I was before. Now by mere conviction I enter the doubtless state.",
+    "themes": [
+      "consciousness",
+      "self",
+      "knowledge",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 10,
+    "sanskrit": "न मे दोषो गुणो वाऽपि न मे हानिर्न वा भवः ।\nविप्राशिर्विमलो ब्रह्मा सोऽहमेवाहमस्म्यहम् ॥",
+    "iast": "na me doṣo guṇo vā'pi na me hānir na vā bhavaḥ |\nviprāśir vimalo brahmā so'ham evāham asmy aham ||",
+    "english": "I have no faults, no virtues, no loss, no birth. I am the stainless Brahman — I am That, I am.",
+    "themes": [
+      "self",
+      "liberation",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 15,
+    "sanskrit": "शोचत्यज्ञः स्वमात्मानं शोकस्थानसहस्रशः ।\nकथमस्ति हि मे शोकश्चिद्रूपस्य स्वभावतः ॥",
+    "iast": "śocaty ajñaḥ svam ātmānaṃ śoka-sthāna-sahasraśaḥ |\nkatham asti hi me śokaś cid-rūpasya svabhāvataḥ ||",
+    "english": "The ignorant grieve for the Self in a thousand ways. How can there be grief for me, whose nature is awareness itself?",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace",
+      "fear"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "sanskrit": "प्रकृत्या शून्यचित्तो यः प्रमादाद्भावभावनः ।\nनिद्रितो बोधित इव क्षीणसंस्मरणो हि सः ॥",
+    "iast": "prakṛtyā śūnya-citto yaḥ pramādād bhāva-bhāvanaḥ |\nnidrito bodhita iva kṣīṇa-saṃsmaraṇo hi saḥ ||",
+    "english": "One whose mind is naturally empty — who thinks of things only inadvertently, as if asleep — has exhausted all remembrance and is awake.",
+    "themes": [
+      "silence",
+      "consciousness",
+      "peace",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 25,
+    "sanskrit": "दूरीकृतमनोवृत्तिरसमान इहास्म्यहम् ।\nतत्त्वानुरक्तो विरक्तः स्वच्छन्दोऽहमहर्निशम् ॥",
+    "iast": "dūrīkṛta-mano-vṛttir asamāna ihāsmy aham |\ntattvānurakto viraktaḥ svacchando'ham ahar-niśam ||",
+    "english": "I am incomparable, having set aside all mental activity. I am devoted to reality, detached, free — day and night.",
+    "themes": [
+      "self",
+      "detachment",
+      "liberation",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 30,
+    "sanskrit": "मायामात्रमिदं विश्वं पश्यन्निगतकौतुकः ।\nप्राप्तिं जीवनमुक्तेर्वा प्रार्थयामि न किञ्चन ॥",
+    "iast": "māyā-mātram idaṃ viśvaṃ paśyan nigata-kautukaḥ |\nprāptiṃ jīvan-mukter vā prārthayāmi na kiñcana ||",
+    "english": "Seeing this world as mere illusion, free from curiosity, I ask for nothing — not even liberation while alive.",
+    "themes": [
+      "detachment",
+      "liberation",
+      "peace",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 40,
+    "sanskrit": "मनसा कल्पिताः सर्वे संवृत्तयः सुखादयः ।\nतत्र शून्यमहं ब्रह्म न मे चिन्ता कदाचन ॥",
+    "iast": "manasā kalpitāḥ sarve saṃvṛttayaḥ sukhādayaḥ |\ntatra śūnyam ahaṃ brahma na me cintā kadācana ||",
+    "english": "All experiences — pleasure and others — are imagined by the mind. I am the void which is Brahman. I am never worried.",
+    "themes": [
+      "consciousness",
+      "self",
+      "peace",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 50,
+    "sanskrit": "चिन्मात्रं चिन्मयं विश्वं चित्स्वभावमिदं जगत् ।\nचितोऽन्यन्नास्ति किञ्चित्तदहं ब्रह्मास्मि नापरम् ॥",
+    "iast": "cin-mātraṃ cin-mayaṃ viśvaṃ cit-svabhāvam idaṃ jagat |\ncito'nyan nāsti kiñcit tad ahaṃ brahmāsmi nāparam ||",
+    "english": "Pure consciousness, made of consciousness — this world is consciousness by nature. Nothing exists apart from consciousness. I am Brahman, nothing else.",
+    "themes": [
+      "consciousness",
+      "self",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 60,
+    "sanskrit": "न मे बन्धो न मे मुक्तिर्नास्ति मे ज्ञानमस्ति वा ।\nस्वातन्त्र्यस्य स्वरूपत्वादात्मनोऽन्यन्न विद्यते ॥",
+    "iast": "na me bandho na me muktir nāsti me jñānam asti vā |\nsvātantryasya svarūpatvād ātmano'nyan na vidyate ||",
+    "english": "I have neither bondage nor liberation, neither knowledge nor ignorance. Freedom is my very nature — nothing exists apart from the Self.",
+    "themes": [
+      "self",
+      "liberation",
+      "bondage",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 70,
+    "sanskrit": "अहो मायामहामोहं विधाय मम शत्रवः ।\nसदसद्भावनातीतं निर्विकल्पं हि मे मनः ॥",
+    "iast": "aho māyā-mahā-mohaṃ vidhāya mama śatravaḥ |\nsad-asad-bhāvanātītaṃ nirvikalpaṃ hi me manaḥ ||",
+    "english": "The great delusion of maya has created my enemies. But my mind has gone beyond thoughts of being and non-being — it is free of all concepts.",
+    "themes": [
+      "consciousness",
+      "peace",
+      "self",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 80,
+    "sanskrit": "अहो कर्ता च भोक्ता च निबन्धनमतीत्य मे ।\nविरक्तिः स्वगता तत्र निर्ममत्वमुपस्थितम् ॥",
+    "iast": "aho kartā ca bhoktā ca nibandhanam atītya me |\nviraktiḥ svagatā tatra nirmamatvam upasthitam ||",
+    "english": "Having gone beyond the doer and the enjoyer, beyond all attachment — detachment has come naturally, and with it freedom from 'mine'.",
+    "themes": [
+      "action",
+      "detachment",
+      "ego",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 90,
+    "sanskrit": "शब्दादिविषयः सर्वो विश्रान्तिस्थानमात्मनः ।\nतमस्तमसि लीनं हि प्रकाशः कः प्रकाशयेत् ॥",
+    "iast": "śabdādi-viṣayaḥ sarvo viśrānti-sthānam ātmanaḥ |\ntamas tamasi līnaṃ hi prakāśaḥ kaḥ prakāśayet ||",
+    "english": "All sense objects — sound and the rest — are but the resting place of the Self. When darkness merges in darkness, what light could illuminate it?",
+    "themes": [
+      "self",
+      "consciousness",
+      "silence"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 100,
+    "sanskrit": "प्रकृत्यैव हि लोकोऽयमप्यन्यत्किमपीह नः ।\nपरमार्थं विजानाति विजानाति न किञ्चन ॥",
+    "iast": "prakṛtyaiva hi loko'yam apy anyat kim apīha naḥ |\nparamārthaṃ vijānāti vijānāti na kiñcana ||",
+    "english": "This world exists by its own nature. One who knows the supreme truth knows nothing else at all.",
+    "themes": [
+      "knowledge",
+      "self",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nतत्त्वविज्ञानसन्दंशं न तर्कोऽवशयत्यपि ।\nलोकपरोक्तोपदेशेनानुभूतस्य का कथा ॥",
+    "iast": "janaka uvāca |\ntattva-vijñāna-sandaṃśaṃ na tarko'vaśayaty api |\nloka-paroktopadeśenānubhūtasya kā kathā ||",
+    "english": "Janaka said: The nature of truth cannot be grasped by logic. What need has the one who has experienced it for worldly instruction?",
+    "themes": [
+      "knowledge",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 5,
+    "sanskrit": "विलसन्ति महाभोगैर्विशन्ति गिरिगह्वरान् ।\nनिर्विचाराः कृतबुद्धेर्नास्ति किञ्चिदवस्तुकम् ॥",
+    "iast": "vilasanti mahā-bhogair viśanti giri-gahvarān |\nnirvicārāḥ kṛta-buddher nāsti kiñcid avastukam ||",
+    "english": "Some enjoy great pleasures, some retire to mountain caves. For the one of settled mind who is beyond thought, nothing is unreal.",
+    "themes": [
+      "peace",
+      "self",
+      "detachment",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 8,
+    "sanskrit": "सुखमास्ते सुखं शेते सुखमायाति याति वा ।\nसुखं वक्ति सुखं भुक्ते सर्वदा गतसंसृतिः ॥",
+    "iast": "sukham āste sukhaṃ śete sukham āyāti yāti vā |\nsukhaṃ vakti sukhaṃ bhukte sarvadā gata-saṃsṛtiḥ ||",
+    "english": "One who is beyond the world sits happily, sleeps happily, comes and goes happily, speaks happily, eats happily — in happiness always.",
+    "themes": [
+      "bliss",
+      "peace",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 1,
+    "sanskrit": "जनक उवाच ।\nक्व भूतानि क्व देहो वा क्वेन्द्रियाणि क्व वा मनः ।\nक्व शून्यं क्व च नैराश्यं मत्स्वरूपे निरञ्जने ॥",
+    "iast": "janaka uvāca |\nkva bhūtāni kva deho vā kvendriyāṇi kva vā manaḥ |\nkva śūnyaṃ kva ca nairāśyaṃ mat-svarūpe nirañjane ||",
+    "english": "Janaka said: Where are the elements, the body, the senses, the mind? Where is the void, where is despair — in my stainless nature?",
+    "themes": [
+      "self",
+      "consciousness",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 3,
+    "sanskrit": "क्व धर्मः क्व च वा कामः क्व चार्थः क्व विवेकता ।\nक्व द्वैतं क्व च वाऽद्वैतं स्वमहिम्नि स्थितस्य मे ॥",
+    "iast": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā |\nkva dvaitaṃ kva ca vā'dvaitaṃ sva-mahimni sthitasya me ||",
+    "english": "Where is duty, desire, wealth, or discrimination? Where is duality, where even non-duality — for me established in my own glory?",
+    "themes": [
+      "self",
+      "duality",
+      "liberation",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 7,
+    "sanskrit": "क्व विद्या क्व च वाऽविद्या क्वाहं क्वेदं मम क्व वा ।\nक्व बन्धः क्व च वा मोक्षः स्वरूपस्य क्व रूपिता ॥",
+    "iast": "kva vidyā kva ca vā'vidyā kvāhaṃ kvedaṃ mama kva vā |\nkva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpitā ||",
+    "english": "Where is knowledge, where ignorance? Where is 'I', where 'this is mine'? Where is bondage, where liberation? The Self has no form.",
+    "themes": [
+      "self",
+      "liberation",
+      "bondage",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 14,
+    "sanskrit": "क्व चाज्ञानं क्व च ज्ञानं क्वाहं क्वेदं मम क्व वा ।\nक्वास्ति मोक्षः क्व बन्धो वा स्वरूपस्य स्वलक्षणम् ॥",
+    "iast": "kva cājñānaṃ kva ca jñānaṃ kvāhaṃ kvedaṃ mama kva vā |\nkvāsti mokṣaḥ kva bandho vā svarūpasya sva-lakṣaṇam ||",
+    "english": "Where is ignorance, where knowledge? Where is 'I', where is 'mine'? Where is bondage, where liberation? The Self is its own nature — beyond all description.",
+    "themes": [
+      "self",
+      "liberation",
+      "knowledge",
+      "consciousness",
+      "silence"
+    ]
+  }
+]
