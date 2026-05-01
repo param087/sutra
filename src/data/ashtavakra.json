@@ -1069,6 +1069,32 @@
   },
   {
     "chapter": 9,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Just as a mirror exists everywhere both within and apart from its reflected images, so the Supreme Lord exists everywhere within and apart from this body.",
+    "themes": [
+      "self",
+      "consciousness",
+      "world",
+      "body"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Just as one and the same all-pervading space exists within and without a jar, so the eternal, everlasting God exists in the totality of things.",
+    "themes": [
+      "self",
+      "consciousness",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 9,
     "verse": 6,
     "sanskrit": "भावनाभावनासक्ता दृष्टिर्भवति भाविनी ।\nभावनाभावनामुक्ता दृष्टिस्ते भवति स्थिता ॥",
     "iast": "bhāvanā-bhāvanā-saktā dṛṣṭir bhavati bhāvinī |\nbhāvanā-bhāvanā-muktā dṛṣṭis te bhavati sthitā ||",
@@ -1077,6 +1103,32 @@
       "silence",
       "consciousness",
       "peace"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Various waves, foam, and bubbles arise in the sea. In the same way, all beings arise from the Self, which is everywhere and all things.",
+    "themes": [
+      "self",
+      "world",
+      "consciousness",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 9,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "It is in the nature of appearance to appear to be made of something, but in reality it is not different from its substrate. A cloth when examined is seen to be nothing but thread. In the same way, when all this is examined it is seen to be nothing but the Self.",
+    "themes": [
+      "self",
+      "world",
+      "knowledge",
+      "consciousness"
     ]
   },
   {
@@ -1106,6 +1158,58 @@
   },
   {
     "chapter": 10,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Knowing that all this is an illusion, one becomes free of desire, pure receptivity, and at peace, as if nothing existed.",
+    "themes": [
+      "desire",
+      "peace",
+      "detachment",
+      "world"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "In the ocean of being there is only one. There was and there will be only one. You are already fulfilled. How can you be bound or free?",
+    "themes": [
+      "self",
+      "freedom",
+      "bondage",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Having once seen this, how can you not remain fulfilled and free from desire?",
+    "themes": [
+      "desire",
+      "freedom",
+      "knowledge",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Seeing this, how can one distinguish 'I am this', or 'I am not this'? How can one feel either desire or lack of it?",
+    "themes": [
+      "self",
+      "desire",
+      "ego",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 10,
     "verse": 7,
     "sanskrit": "न शान्तो न विशुद्धो वा श्रान्तो वा गतसंसारः ।\nमहामोहमयी सृष्टिः किं मे बुद्धिमता सह ॥",
     "iast": "na śānto na viśuddho vā śrānto vā gata-saṃsāraḥ |\nmahā-moha-mayī sṛṣṭiḥ kiṃ me buddhimatā saha ||",
@@ -1114,6 +1218,19 @@
       "peace",
       "liberation",
       "knowledge",
+      "self"
+    ]
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are that consciousness, Supreme Bliss, on which this universe appears superimposed, like a snake on a rope. Be happy.",
+    "themes": [
+      "consciousness",
+      "bliss",
+      "world",
       "self"
     ]
   },
@@ -1132,6 +1249,71 @@
   },
   {
     "chapter": 11,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who considers himself free is free indeed, and he who considers himself bound remains bound. 'As one thinks, so one becomes' is a popular saying in this world, and it is quite true.",
+    "themes": [
+      "freedom",
+      "bondage",
+      "mind",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The Self is witness, all-pervading, perfect, one, free, consciousness, actionless, unattached, desireless, and quiet. Through illusion it appears as if involved in the world.",
+    "themes": [
+      "self",
+      "witness",
+      "consciousness",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Abandoning the illusion of an external and internal world, and all illusion of being the doer, meditate on the Self, the immovable, indivisible, and infinite.",
+    "themes": [
+      "self",
+      "action",
+      "world",
+      "ego"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The illusion of the world has always existed in you. You have long thought of yourself as a body. Recognise 'I am not the body', and meditate on the Self, the immovable, indivisible, and infinite.",
+    "themes": [
+      "body",
+      "self",
+      "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are unconditioned and changeless, formless and immovable, unfathomable awareness, imperturbable. Desire consciousness alone.",
+    "themes": [
+      "self",
+      "consciousness",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 11,
     "verse": 7,
     "sanskrit": "वस्तुतस्त्वमसीत्युक्तः प्रत्यात्मज्ञानवान्पुमान् ।\nकिमिच्छति विकल्पस्य स्थानमस्य भवत्यतः ॥",
     "iast": "vastutaḥ tvam asīty uktaḥ pratyātma-jñānavān pumān |\nkim icchati vikalpasya sthānam asya bhavaty ataḥ ||",
@@ -1140,6 +1322,19 @@
       "self",
       "knowledge",
       "liberation"
+    ]
+  },
+  {
+    "chapter": 11,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You have no caste or duties. You are invisible, unattached, and formless. You are the witness of all things. Be happy.",
+    "themes": [
+      "witness",
+      "detachment",
+      "bliss",
+      "freedom"
     ]
   },
   {
@@ -1157,6 +1352,45 @@
   },
   {
     "chapter": 12,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who has known That is indifferent to both bondage and liberation. He is free from desire. But still, without motive, he will act as occasion demands.",
+    "themes": [
+      "freedom",
+      "action",
+      "detachment",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The great-souled person who has come to know the Truth is like a child, acting without motive.",
+    "themes": [
+      "knowledge",
+      "action",
+      "freedom",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The knower of Truth, content and free from desire, shines with the happiness within himself. He does not identify with action or inaction.",
+    "themes": [
+      "knowledge",
+      "bliss",
+      "action",
+      "self"
+    ]
+  },
+  {
+    "chapter": 12,
     "verse": 5,
     "sanskrit": "न मे रागो न मे द्वेषो न मे लोभो न मे मोहः ।\nन मे दृप्तिर्न मात्सर्यं न मे धर्मो न चार्थभाक् ॥",
     "iast": "na me rāgo na me dveṣo na me lobho na me mohaḥ |\nna me dṛptir na mātsaryaṃ na me dharmo na cārthabhāk ||",
@@ -1166,6 +1400,45 @@
       "peace",
       "self",
       "liberation"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He is without anxiety, free from attachment, solitary, and free from concerns. He lives happily with nothing in the world to do.",
+    "themes": [
+      "peace",
+      "detachment",
+      "freedom",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The knower of Truth does not feel himself to be a doer, even when acting. He eats when food comes his way, and sleeps without cares.",
+    "themes": [
+      "action",
+      "ego",
+      "peace",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 12,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The knower of Truth is not affected by praise or blame, just as the ocean is not affected by the rivers flowing into it.",
+    "themes": [
+      "equanimity",
+      "peace",
+      "detachment",
+      "self"
     ]
   },
   {
@@ -1183,6 +1456,19 @@
   },
   {
     "chapter": 13,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "That which has form is not real. Only the formless is permanent. Once this is known, you will not return to illusion.",
+    "themes": [
+      "knowledge",
+      "world",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 13,
     "verse": 3,
     "sanskrit": "प्रारब्धानि विकर्माणि कथमेतद्धृतिः सुखम् ।\nइत्यालोच्य तदा तदा मनन्दत्वादुपशाम्यति ॥",
     "iast": "prārabdhāni vikarmāṇi katham etad dhṛtiḥ sukham |\nity ālocya tadā tadā manandatvād upaśāmyati ||",
@@ -1195,6 +1481,58 @@
     ]
   },
   {
+    "chapter": 13,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Just as a mirror exists within and without the image reflected in it, so the Supreme Self exists within and without the body.",
+    "themes": [
+      "self",
+      "body",
+      "consciousness",
+      "world"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Just as the same all-pervading space is inside and outside a jar, so the eternal all-pervasive Brahman exists in all things.",
+    "themes": [
+      "self",
+      "consciousness",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "A man of knowledge is he for whom the sense of doership and the sense of 'mine' have ceased. Whatever he does, he does nothing.",
+    "themes": [
+      "knowledge",
+      "action",
+      "ego",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 13,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The heart of the man of knowledge is not affected in the least by actions done or left undone. It shines pure and remains happy.",
+    "themes": [
+      "action",
+      "peace",
+      "bliss",
+      "detachment"
+    ]
+  },
+  {
     "chapter": 14,
     "verse": 1,
     "sanskrit": "अष्टावक्र उवाच ।\nप्राप्तं यदिच्छया ज्ञानमभ्यासादपि वा भवेत् ।\nधन्यस्य पुण्यकर्मस्य विरक्तस्येह सर्वतः ॥",
@@ -1204,6 +1542,32 @@
       "knowledge",
       "detachment",
       "liberation"
+    ]
+  },
+  {
+    "chapter": 14,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who is beyond existence and non-existence, who is wise, satisfied, and free from desire — he does nothing even if in the eyes of the world he appears to be doing things.",
+    "themes": [
+      "action",
+      "ego",
+      "freedom",
+      "desire"
+    ]
+  },
+  {
+    "chapter": 14,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man who just wears what comes to hand, eats what comes his way, and sleeps wherever he may — he lives happily anywhere.",
+    "themes": [
+      "detachment",
+      "peace",
+      "bliss",
+      "freedom"
     ]
   },
   {
@@ -1233,6 +1597,45 @@
   },
   {
     "chapter": 15,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! In me, the limitless ocean, the waves of individual selves arise according to their nature, meet and play for a while, and then disappear.",
+    "themes": [
+      "self",
+      "consciousness",
+      "world",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! I am really boundless. In me, like waves in the ocean, the universe rises and falls without my increasing or diminishing.",
+    "themes": [
+      "self",
+      "world",
+      "consciousness",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! In me, the infinite ocean, nothing is born, nothing sustained, nothing dissolved. I am awareness itself.",
+    "themes": [
+      "consciousness",
+      "self",
+      "dissolution",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 15,
     "verse": 5,
     "sanskrit": "मुक्तौ विषयविरक्तिर्बन्धे विषयवासना ।\nइत्येतद्विद्धि विज्ञानमततः कुरु यद्यसि ॥",
     "iast": "muktau viṣaya-viraktir bandhe viṣaya-vāsanā |\nity etad viddhi vijñānam tataḥ kuru yad yasi ||",
@@ -1241,6 +1644,71 @@
       "liberation",
       "bondage",
       "desire",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! I am awareness itself. Though the world of multiplicity appears, nothing exists or is empty.",
+    "themes": [
+      "consciousness",
+      "world",
+      "self",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "It is neither one nor many. What is it then? Truly it cannot be fathomed. Only in delusion does the manifold appear.",
+    "themes": [
+      "consciousness",
+      "world",
+      "duality",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "There is no dissolution and no creation, no one in bondage and no one seeking or gaining liberation. This is the absolute truth.",
+    "themes": [
+      "liberation",
+      "bondage",
+      "freedom",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 9,
+    "sanskrit": "",
+    "iast": "",
+    "english": "This is the sum of all teaching: you are awareness, indivisible, free, and immovable. What can meditation or non-meditation do for you?",
+    "themes": [
+      "consciousness",
+      "freedom",
+      "self",
+      "action"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 10,
+    "sanskrit": "",
+    "iast": "",
+    "english": "My child, all this teaching amounts to this — you are the smooth, uninterrupted, blissful awareness which is the Self.",
+    "themes": [
+      "self",
+      "consciousness",
+      "bliss",
       "knowledge"
     ]
   },
@@ -1255,6 +1723,123 @@
       "duality",
       "liberation",
       "action"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 12,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are unbounded awareness — bliss, supreme bliss — in which the universe appears like the mirage of a snake in a rope. Be happy.",
+    "themes": [
+      "consciousness",
+      "bliss",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 13,
+    "sanskrit": "",
+    "iast": "",
+    "english": "It is true what they say: 'You are what you think.' If you think you are bound you are bound. If you think you are free you are free.",
+    "themes": [
+      "freedom",
+      "bondage",
+      "mind",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 14,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The Self is the witness, all-pervading, perfect, one, free, consciousness, without action, unattached, without desire, and at peace with itself.",
+    "themes": [
+      "self",
+      "witness",
+      "consciousness",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Meditate on the Self as immovable, awareness, and non-dual. Give up the illusion of yourself being a separate entity, either external or internal.",
+    "themes": [
+      "self",
+      "consciousness",
+      "duality",
+      "ego"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 16,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You have long been trapped in the snare of identification with the body. Sever it with the knife of knowledge that 'I am awareness', and be happy, my son.",
+    "themes": [
+      "body",
+      "knowledge",
+      "consciousness",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 17,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are really unbound and actionless, self-illuminating and spotless already. The cause of your bondage is that you are still resorting to stilling the mind.",
+    "themes": [
+      "freedom",
+      "mind",
+      "bondage",
+      "self"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 18,
+    "sanskrit": "",
+    "iast": "",
+    "english": "All of this is really filled by you and strung in you through and through. Do not let yourself be fragmented by false knowledge.",
+    "themes": [
+      "self",
+      "consciousness",
+      "knowledge",
+      "world"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 19,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are that in which the universe appears, and which is supreme, unconditioned, and all-pervasive. You are undisturbed awareness. Do not be small-minded.",
+    "themes": [
+      "consciousness",
+      "self",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 15,
+    "verse": 20,
+    "sanskrit": "",
+    "iast": "",
+    "english": "You are unconditioned and changeless, formless and immovable, unfathomable awareness, unperturbable — so hold to nothing but consciousness.",
+    "themes": [
+      "consciousness",
+      "self",
+      "detachment",
+      "peace"
     ]
   },
   {
@@ -1285,6 +1870,97 @@
   },
   {
     "chapter": 16,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who knows that this whole varied universe is nothing sees all desire fall away and becomes pure intelligence.",
+    "themes": [
+      "knowledge",
+      "desire",
+      "world",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Free from desire you are content. Free from grasping, with senses stilled — you are happy everywhere.",
+    "themes": [
+      "desire",
+      "peace",
+      "bliss",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Dispassion for sense objects is liberation. Passion for sense objects is bondage. This is knowledge. Now do as you please.",
+    "themes": [
+      "detachment",
+      "liberation",
+      "bondage",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "This eloquent, clear, and holy statement leads to silence in those of a clear understanding. But those of a dull understanding go on deliberating.",
+    "themes": [
+      "knowledge",
+      "silence",
+      "mind",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The ignorant man does not find peace through control of the mind, striving awkwardly for it. The man of discrimination joyfully discovers peace already within, simply by understanding.",
+    "themes": [
+      "peace",
+      "mind",
+      "knowledge",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How can the intellect which discusses and decides, find That which is beyond thought and experience? The wise find peace by abandoning all such efforts.",
+    "themes": [
+      "mind",
+      "peace",
+      "knowledge",
+      "silence"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 9,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Seeing the tigers of the senses, the frightened refuge-seekers at once enter the cave of mind-control and one-pointedness.",
+    "themes": [
+      "mind",
+      "fear",
+      "bondage",
+      "action"
+    ]
+  },
+  {
+    "chapter": 16,
     "verse": 10,
     "sanskrit": "निर्वासनं हरेर्लिङ्गं निर्वासनमिहोच्यते ।\nसोऽविचार्य स्थितो योगी स्वयमेव विलीयते ॥",
     "iast": "nirvāsanaṃ harer liṅgaṃ nirvāsanam ihocyate |\nso'vicārya sthito yogī svayam eva vilīyate ||",
@@ -1294,6 +1970,19 @@
       "liberation",
       "dissolution",
       "silence"
+    ]
+  },
+  {
+    "chapter": 16,
+    "verse": 11,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man, free from all desire, remains unsupported, with pure understanding. Wherever his mind goes, that is his samadhi.",
+    "themes": [
+      "desire",
+      "freedom",
+      "mind",
+      "peace"
     ]
   },
   {
@@ -1311,6 +2000,32 @@
   },
   {
     "chapter": 17,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who is content, with purified senses, and always enjoys solitude — he has gained the fruit of knowledge and the fruit of the practice of yoga too.",
+    "themes": [
+      "knowledge",
+      "peace",
+      "detachment",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The knower of truth is never distressed in this world, for the whole round world is full of himself alone.",
+    "themes": [
+      "self",
+      "knowledge",
+      "world",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 17,
     "verse": 4,
     "sanskrit": "शोकमोहौ सुखं दुःखं इत्यात्मनि न विद्यते ।\nन चिन्तारूपमप्यस्य देहस्येह चरिष्यतः ॥",
     "iast": "śoka-mohau sukhaṃ duḥkhaṃ ity ātmani na vidyate |\nna cintā-rūpam apy asya dehasya iha cariṣyataḥ ||",
@@ -1320,6 +2035,71 @@
       "peace",
       "witness",
       "detachment"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who is beyond mental stillness and distraction does not desire either liberation or anything else. Recognising that things are just constructions of the imagination, that great soul lives as God here and now.",
+    "themes": [
+      "freedom",
+      "desire",
+      "mind",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who feels responsibility, who feels the sense of 'I', who feels he is the doer, he is the ignorant one. He is not a man of awakening.",
+    "themes": [
+      "ego",
+      "action",
+      "knowledge",
+      "bondage"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Even the man who has performed great works — even he, if he has a sense of doership, is neither a knower nor a worshipper, but merely one who suffers.",
+    "themes": [
+      "ego",
+      "action",
+      "bondage",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "When the notion that 'I am the doer' has fallen away, the three-fold karma — past, present, and future — is no more for you.",
+    "themes": [
+      "ego",
+      "action",
+      "liberation",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 9,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man who is happy everywhere, who does not regard anything as his own, who is free from the sense of 'mine' — such a person shines.",
+    "themes": [
+      "detachment",
+      "bliss",
+      "freedom",
+      "ego"
     ]
   },
   {
@@ -1334,6 +2114,123 @@
       "detachment",
       "self",
       "liberation"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 11,
+    "sanskrit": "",
+    "iast": "",
+    "english": "For the one who has transcended the mind, there is no meditation or non-meditation, no world and no non-world, no good and no evil.",
+    "themes": [
+      "mind",
+      "duality",
+      "freedom",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 12,
+    "sanskrit": "",
+    "iast": "",
+    "english": "I am that limitless, unchanging Self in which nothing appears — no world, no veils, no delusion. How can there be any question of states of mind?",
+    "themes": [
+      "self",
+      "consciousness",
+      "world",
+      "mind"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 13,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! In me, the infinite ocean, the mind-creation of the universe rises and falls. It neither increases nor diminishes me.",
+    "themes": [
+      "self",
+      "world",
+      "consciousness",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 14,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! I am truly boundless awareness. The universe is like a potter's jar and I am like the space it contains. So knowledge or ignorance are not mine.",
+    "themes": [
+      "consciousness",
+      "self",
+      "knowledge",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 15,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! Neither duty, nor worldly concerns, nor attachment, nor body, exist in me. How wonderful!",
+    "themes": [
+      "self",
+      "body",
+      "attachment",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 16,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! For me, free from all defects, there is no distraction or one-pointedness, no confusion or clarity, no happiness or unhappiness.",
+    "themes": [
+      "freedom",
+      "duality",
+      "equanimity",
+      "self"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 17,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! Neither dream nor deep sleep nor waking state exist for me, who am beyond all states.",
+    "themes": [
+      "self",
+      "consciousness",
+      "freedom",
+      "mind"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 18,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! There is nothing to be feared by me who am beyond all fear.",
+    "themes": [
+      "fear",
+      "freedom",
+      "self",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 17,
+    "verse": 19,
+    "sanskrit": "",
+    "iast": "",
+    "english": "How wonderful! Self-knowledge is not attained by means of the scriptures, nor by worldly experience. It shines forth by itself when one gives up all seeking.",
+    "themes": [
+      "knowledge",
+      "self",
+      "liberation",
+      "detachment"
     ]
   },
   {
@@ -1376,6 +2273,32 @@
   },
   {
     "chapter": 18,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who has become free here and now, who is unmoved in his actions, who moves amongst the sense objects unperturbed — such a one neither acts nor reaps the fruits of action.",
+    "themes": [
+      "freedom",
+      "action",
+      "detachment",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is darkness or light, where is anything to be given up? Indeed, where is anything at all for the man of wisdom who is free from duality?",
+    "themes": [
+      "duality",
+      "knowledge",
+      "freedom",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 5,
     "sanskrit": "अहो न किञ्चिदस्तीह वस्तु मन्दस्य मे पुरा ।\nयस्य निश्चयमात्रेण निर्विकल्पमुपैमि तत् ॥",
     "iast": "aho na kiñcid astīha vastu mandasya me purā |\nyasya niścaya-mātreṇa nirvikalpam upaimi tat ||",
@@ -1389,6 +2312,58 @@
   },
   {
     "chapter": 18,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is delusion, where is the world, where is withdrawal, where is liberation for the great soul who lives beyond states of mind?",
+    "themes": [
+      "liberation",
+      "mind",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man who has known the Truth sees neither the world nor himself. He does not see activity nor inactivity.",
+    "themes": [
+      "knowledge",
+      "world",
+      "action",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man of realisation is free from distraction and non-distraction, free from desire and free from non-desire.",
+    "themes": [
+      "freedom",
+      "desire",
+      "mind",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 9,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Blessed is the man of knowledge who has nothing and who does nothing. He eats when food comes, and sleeps where he happens to be.",
+    "themes": [
+      "detachment",
+      "peace",
+      "freedom",
+      "action"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 10,
     "sanskrit": "न मे दोषो गुणो वाऽपि न मे हानिर्न वा भवः ।\nविप्राशिर्विमलो ब्रह्मा सोऽहमेवाहमस्म्यहम् ॥",
     "iast": "na me doṣo guṇo vā'pi na me hānir na vā bhavaḥ |\nviprāśir vimalo brahmā so'ham evāham asmy aham ||",
@@ -1397,6 +2372,58 @@
       "self",
       "liberation",
       "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 11,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man is not averse to action, nor does he feel attachment to inaction. He lives happily with whatever happens.",
+    "themes": [
+      "action",
+      "detachment",
+      "peace",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 12,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Free from thought of 'mine', from desires and attachment to the body, the man of knowledge shines with contentment.",
+    "themes": [
+      "detachment",
+      "desire",
+      "body",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 13,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Contentment ever dwells in the heart of the wise one who lives on whatever comes, going wherever he pleases, sleeping wherever the sun sets.",
+    "themes": [
+      "peace",
+      "detachment",
+      "freedom",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 14,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Whether his body rises or falls, the great-souled one gives it no thought. Having forgotten its very existence, he rests in the Absolute.",
+    "themes": [
+      "body",
+      "self",
+      "detachment",
+      "liberation"
     ]
   },
   {
@@ -1414,6 +2441,58 @@
   },
   {
     "chapter": 18,
+    "verse": 16,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man who is free from the ego, who is not attached either to action or inaction, is not affected by anything done or left undone.",
+    "themes": [
+      "ego",
+      "action",
+      "detachment",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 17,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Blessed is the man of understanding who drinks the water of goodness, whose mind's eye is clear and who is free of all desires.",
+    "themes": [
+      "knowledge",
+      "desire",
+      "peace",
+      "mind"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 18,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The mind of the wise man is always free of desire and disinterest, knowing and not knowing, seeing and not seeing.",
+    "themes": [
+      "mind",
+      "desire",
+      "knowledge",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 19,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Free from 'me' and 'mine', knowing that nothing is, with all his inner desires extinguished, the man does not act even in acting.",
+    "themes": [
+      "ego",
+      "action",
+      "desire",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 20,
     "sanskrit": "प्रकृत्या शून्यचित्तो यः प्रमादाद्भावभावनः ।\nनिद्रितो बोधित इव क्षीणसंस्मरणो हि सः ॥",
     "iast": "prakṛtyā śūnya-citto yaḥ pramādād bhāva-bhāvanaḥ |\nnidrito bodhita iva kṣīṇa-saṃsmaraṇo hi saḥ ||",
@@ -1423,6 +2502,58 @@
       "consciousness",
       "peace",
       "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 21,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man whose mind is beyond agitation is without fear, without desire, and beyond the reach of change.",
+    "themes": [
+      "mind",
+      "fear",
+      "desire",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 22,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man of knowledge is beyond thought, deep and fathomless like the ocean. He is neither moved nor unmoved. His senses have dissolved.",
+    "themes": [
+      "knowledge",
+      "mind",
+      "peace",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 23,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man is neither asleep nor awake, neither opening nor closing his eyes. Ah, the liberated soul lives everywhere in every state.",
+    "themes": [
+      "liberation",
+      "freedom",
+      "consciousness",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 24,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The liberated man lives continually in the Self and is pure at heart. He lives freely, free from all desires.",
+    "themes": [
+      "liberation",
+      "self",
+      "desire",
+      "freedom"
     ]
   },
   {
@@ -1440,6 +2571,58 @@
   },
   {
     "chapter": 18,
+    "verse": 26,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man of knowledge, though living like an ordinary man, is contrary to him. He sees no anger or joy, no gain or loss, no agitation or calm.",
+    "themes": [
+      "knowledge",
+      "equanimity",
+      "detachment",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 27,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Desireless and wise, the man of knowledge does not suffer even while suffering. He acts without being the doer.",
+    "themes": [
+      "desire",
+      "knowledge",
+      "action",
+      "ego"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 28,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The happy man, though acting, is not acting. Though hurrying, he is not hurrying. Though enjoying worldly things, he is not a worldly man.",
+    "themes": [
+      "action",
+      "detachment",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 29,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man stands apart from the body. He neither desires nor grieves. His mind is above praise and blame.",
+    "themes": [
+      "body",
+      "detachment",
+      "mind",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 30,
     "sanskrit": "मायामात्रमिदं विश्वं पश्यन्निगतकौतुकः ।\nप्राप्तिं जीवनमुक्तेर्वा प्रार्थयामि न किञ्चन ॥",
     "iast": "māyā-mātram idaṃ viśvaṃ paśyan nigata-kautukaḥ |\nprāptiṃ jīvan-mukter vā prārthayāmi na kiñcana ||",
@@ -1448,6 +2631,123 @@
       "detachment",
       "liberation",
       "peace",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 31,
+    "sanskrit": "",
+    "iast": "",
+    "english": "There is neither bondage nor liberation for the great soul who is free from all 'if's and 'but's.",
+    "themes": [
+      "bondage",
+      "liberation",
+      "freedom",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 32,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is illusion and where is the world? Where is desire and where is renunciation? For the wise man who has gone beyond duality, these no longer exist.",
+    "themes": [
+      "duality",
+      "world",
+      "desire",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 33,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is creation, where is dissolution? Where is the end, and where is the means? Where is the seeker, and where is attainment, for the wise man living in the state of supreme truth?",
+    "themes": [
+      "dissolution",
+      "knowledge",
+      "freedom",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 34,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He sees only the Self, like a man who has been dreaming and then wakes up.",
+    "themes": [
+      "self",
+      "consciousness",
+      "knowledge",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 35,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is far, where is near? Where is inside, where is outside? Where is thick, where is thin? For the great-souled one who transcends all duality.",
+    "themes": [
+      "duality",
+      "self",
+      "freedom",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 36,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is death, where is life? Where are the worlds? Where is involvement? For the yogi who is utterly free.",
+    "themes": [
+      "freedom",
+      "world",
+      "liberation",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 37,
+    "sanskrit": "",
+    "iast": "",
+    "english": "There is neither the world nor the seeker of liberation, nor the yogi, neither the wise nor the ignorant — for the one established in the Self.",
+    "themes": [
+      "self",
+      "world",
+      "duality",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 38,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is distraction or concentration, knowledge or delusion, joy or sorrow, for the great soul who has gone beyond all states?",
+    "themes": [
+      "mind",
+      "duality",
+      "freedom",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 39,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the relative world or the absolute, happiness or misery? Where is 'mine' or 'not mine'? For the great soul who has gone beyond 'I'.",
+    "themes": [
+      "duality",
+      "ego",
+      "freedom",
       "self"
     ]
   },
@@ -1466,6 +2766,123 @@
   },
   {
     "chapter": 18,
+    "verse": 41,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who is free from desire is neither attached to anything nor detached. He is free from bondage and liberation, neither realized nor unrealized.",
+    "themes": [
+      "desire",
+      "freedom",
+      "bondage",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 42,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man of steady wisdom, free from distraction, is neither seeking nor not seeking — seeing only Brahman everywhere.",
+    "themes": [
+      "knowledge",
+      "consciousness",
+      "mind",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 43,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who is beyond duality, though acting, does nothing. Though enjoying the fruits of past actions, he is not affected.",
+    "themes": [
+      "duality",
+      "action",
+      "detachment",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 44,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is dharma, where is desire, where is wealth, where is discrimination, where is duality, where is non-duality, for one established in the Self?",
+    "themes": [
+      "self",
+      "desire",
+      "duality",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 45,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is beginning, where is end? Where is existence, where is non-existence? Where is unity, where is duality, for the one who is always free from distinctions?",
+    "themes": [
+      "duality",
+      "freedom",
+      "self",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 46,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the creator, where is the creation? Where is the enjoyer and the means of enjoyment? Where is annihilation, and where is anything at all — for one who abides in the majesty of the Self?",
+    "themes": [
+      "self",
+      "world",
+      "dissolution",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 47,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is worldly life, where is renunciation? Where is liberation, where is bondage, for the great soul who has gone beyond all concerns?",
+    "themes": [
+      "freedom",
+      "bondage",
+      "liberation",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 48,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is instruction, where is scripture? Where is the disciple and where the teacher? Where is the purpose of life for the great soul who is beyond all limitation?",
+    "themes": [
+      "knowledge",
+      "freedom",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 49,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is existence, where is non-existence? Where is unity, where is duality? What need is there to say more? Nothing emanates from the Self.",
+    "themes": [
+      "self",
+      "duality",
+      "consciousness",
+      "silence"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 50,
     "sanskrit": "चिन्मात्रं चिन्मयं विश्वं चित्स्वभावमिदं जगत् ।\nचितोऽन्यन्नास्ति किञ्चित्तदहं ब्रह्मास्मि नापरम् ॥",
     "iast": "cin-mātraṃ cin-mayaṃ viśvaṃ cit-svabhāvam idaṃ jagat |\ncito'nyan nāsti kiñcit tad ahaṃ brahmāsmi nāparam ||",
@@ -1474,6 +2891,123 @@
       "consciousness",
       "self",
       "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 51,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man who has known the Truth is beyond all states and conditions. He is beyond all thought of unity or duality.",
+    "themes": [
+      "knowledge",
+      "duality",
+      "freedom",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 52,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is distraction or one-pointedness? Where is knowledge or ignorance? Where is joy or sorrow for the one who is everywhere and always the same?",
+    "themes": [
+      "equanimity",
+      "duality",
+      "mind",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 53,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the relative, where is the absolute, where is bliss or suffering for the one who is forever free from all concepts?",
+    "themes": [
+      "freedom",
+      "duality",
+      "bliss",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 54,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is maya, where is samsara? Where is attachment or detachment, where is joy or sorrow, for the one who is ever formless?",
+    "themes": [
+      "attachment",
+      "detachment",
+      "world",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 55,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is action, where is inaction? Where is liberation, where is bondage? For the one who is ever still and formless, abiding in Self.",
+    "themes": [
+      "action",
+      "liberation",
+      "bondage",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 56,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is instruction, where is attainment? Where is that or this? Where is the possibility of anything being or not being for the one who is ever pure?",
+    "themes": [
+      "freedom",
+      "self",
+      "duality",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 57,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the world? Where is the seeker? Where is the yogi? Where is the knower? For the one who rests in the Self, beyond all distinctions.",
+    "themes": [
+      "self",
+      "world",
+      "knowledge",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 58,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is creation, where is destruction? Where is the goal, where is the means? Where is the seeker, where is attainment? For the one who is ever without duality.",
+    "themes": [
+      "duality",
+      "dissolution",
+      "freedom",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 59,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the doer, where is the enjoyer? Where is the arising and dissolving of thought? Where is direct perception and its result for the one who is ever impersonal?",
+    "themes": [
+      "ego",
+      "action",
+      "mind",
+      "self"
     ]
   },
   {
@@ -1491,6 +3025,123 @@
   },
   {
     "chapter": 18,
+    "verse": 61,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Blessed is the one who knows the Self and whose mind is pure and who has given up everything, whether consciously or unconsciously.",
+    "themes": [
+      "self",
+      "knowledge",
+      "detachment",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 62,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Blessed is the man of knowledge who has attained the supreme state and who is the same in all circumstances, whether seeing, hearing, touching, smelling, or eating.",
+    "themes": [
+      "knowledge",
+      "equanimity",
+      "peace",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 63,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is samsara, where is anything? Where is aspiration, where is achievement? For the great soul who lives beyond the nature of things.",
+    "themes": [
+      "world",
+      "freedom",
+      "self",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 64,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is you, where is I? Where is the world or the teacher? Where is the purpose of life for the one who abides in the stainless Self?",
+    "themes": [
+      "self",
+      "world",
+      "duality",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 65,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is distraction, where is concentration? Where is certainty, where is doubt? Where is anything at all for one who is beyond all states?",
+    "themes": [
+      "mind",
+      "freedom",
+      "equanimity",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 66,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is heaven, where is hell? Where is samsara, and where is liberation? In short, where is anything for the great yogi who has gone beyond everything?",
+    "themes": [
+      "liberation",
+      "world",
+      "freedom",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 67,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He neither yearns for things nor condemns them. Contented and the same in all circumstances, the wise one does not feel he exists.",
+    "themes": [
+      "equanimity",
+      "detachment",
+      "ego",
+      "peace"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 68,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man does not feel his mind is working or his senses perceiving, nor does he feel himself existing as a doer or not a doer.",
+    "themes": [
+      "mind",
+      "ego",
+      "action",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 69,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Free from thoughts and free from illusions, free from both virtue and vice, the man of knowledge is beyond both existence and non-existence.",
+    "themes": [
+      "mind",
+      "freedom",
+      "duality",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 70,
     "sanskrit": "अहो मायामहामोहं विधाय मम शत्रवः ।\nसदसद्भावनातीतं निर्विकल्पं हि मे मनः ॥",
     "iast": "aho māyā-mahā-mohaṃ vidhāya mama śatravaḥ |\nsad-asad-bhāvanātītaṃ nirvikalpaṃ hi me manaḥ ||",
@@ -1500,6 +3151,123 @@
       "peace",
       "self",
       "duality"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 71,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is delusion, where is creation? Where is the great soul, where is the small? For the one who is ever the same, desireless and fulfilled.",
+    "themes": [
+      "equanimity",
+      "desire",
+      "self",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 72,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is activity or inactivity? Where is liberation or bondage? For the one who has gone beyond everything and is immutable and formless.",
+    "themes": [
+      "action",
+      "liberation",
+      "bondage",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 73,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the teacher, where is the teaching? Where is the student? Where is the end of life? For the one who is beyond desire, limitless and all-pervading.",
+    "themes": [
+      "desire",
+      "freedom",
+      "knowledge",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 74,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is being, where is non-being? Where is the one, where is the two? What need is there to say more? Nothing issues from the Self.",
+    "themes": [
+      "self",
+      "duality",
+      "silence",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 75,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who has transcended everything and realized the Self neither meditates nor fails to meditate, neither knows nor does not know.",
+    "themes": [
+      "self",
+      "knowledge",
+      "action",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 76,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The man of realisation, the great soul, free from all desire, exists beyond existence itself.",
+    "themes": [
+      "self",
+      "desire",
+      "liberation",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 77,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is delusion, where is the universe? Where is meditation on Reality? Where is liberation for the great soul who has found peace?",
+    "themes": [
+      "peace",
+      "world",
+      "liberation",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 78,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He who has no 'mine', for whom self and other do not exist, who has no sense of responsibility — how can he act?",
+    "themes": [
+      "ego",
+      "action",
+      "detachment",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 79,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise man who is free from all expectations and who has transcended duality lives in bliss, free from all effort.",
+    "themes": [
+      "freedom",
+      "duality",
+      "bliss",
+      "detachment"
     ]
   },
   {
@@ -1517,6 +3285,123 @@
   },
   {
     "chapter": 18,
+    "verse": 81,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is right and where is wrong? Where is happiness and where is misery? Where is real and where is unreal? For one who has gone beyond all concerns.",
+    "themes": [
+      "duality",
+      "freedom",
+      "equanimity",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 82,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is yearning, where is renunciation? Where is joy and where is sorrow? For the one who is ever thoughtless and spotless.",
+    "themes": [
+      "detachment",
+      "duality",
+      "mind",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 83,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is illusion, where is existence? Where is attachment, where is detachment? Where is joy, where is sorrow? For the one abiding in stillness.",
+    "themes": [
+      "attachment",
+      "detachment",
+      "peace",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 84,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the knower and the means of knowledge? Where is the object and where is anything? For the pure, transparent, formless one.",
+    "themes": [
+      "knowledge",
+      "self",
+      "freedom",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 85,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is distraction, where is concentration? Where is knowledge, where is delusion? Where is happiness, where is sorrow? For one who abides in the supreme state.",
+    "themes": [
+      "mind",
+      "duality",
+      "equanimity",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 86,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the relative, where is the absolute? Where is happiness, where is misery? Let the mind dissolve right here and now. For the one who abides everywhere.",
+    "themes": [
+      "mind",
+      "dissolution",
+      "duality",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 87,
+    "sanskrit": "",
+    "iast": "",
+    "english": "He whose sense of purpose has dropped away naturally, though he may be seen to act, does nothing at all.",
+    "themes": [
+      "action",
+      "ego",
+      "detachment",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 88,
+    "sanskrit": "",
+    "iast": "",
+    "english": "The wise one neither renounces nor takes hold of anything. The liberated mind, free from thought of dissolution or development, stands in its own splendour.",
+    "themes": [
+      "mind",
+      "detachment",
+      "liberation",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 89,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Recognising that all this is an illusion, and that nothing exists, the man of knowledge, free from all desire, finds peace.",
+    "themes": [
+      "world",
+      "desire",
+      "peace",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 18,
     "verse": 90,
     "sanskrit": "शब्दादिविषयः सर्वो विश्रान्तिस्थानमात्मनः ।\nतमस्तमसि लीनं हि प्रकाशः कः प्रकाशयेत् ॥",
     "iast": "śabdādi-viṣayaḥ sarvo viśrānti-sthānam ātmanaḥ |\ntamas tamasi līnaṃ hi prakāśaḥ kaḥ prakāśayet ||",
@@ -1525,6 +3410,123 @@
       "self",
       "consciousness",
       "silence"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 91,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is consciousness or absence of consciousness? Where is 'mine' or 'not mine'? Where is thinking, where is unthinking? Where is anything? For one who is the very nature of freedom.",
+    "themes": [
+      "consciousness",
+      "freedom",
+      "mind",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 92,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is desire, where is self-control? Where is acceptance, where is discrimination? For the yogi who has attained fulfilment.",
+    "themes": [
+      "desire",
+      "freedom",
+      "knowledge",
+      "self"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 93,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is existence, where is dissolution? Where is the end, where is the means? There is no place for these in the one who is ever blessed and spotless.",
+    "themes": [
+      "dissolution",
+      "freedom",
+      "self",
+      "bliss"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 94,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the doer, where is the enjoyer? Where is cessation of thought? Where is the nature of direct perception for the one who is forever impersonal and indifferent?",
+    "themes": [
+      "ego",
+      "mind",
+      "self",
+      "equanimity"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 95,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the world, where is the aspirant? Where is the yogi, where is the sage? For one who is established in the Absolute Self.",
+    "themes": [
+      "world",
+      "self",
+      "knowledge",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 96,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is creation, where is destruction? Where is seeking, where is fulfilment? For the one who abides in the supreme stillness.",
+    "themes": [
+      "dissolution",
+      "peace",
+      "silence",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 97,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the knower and the known? Where is the Self, where is the non-Self? Where is anxiety, where is equanimity? For the one who is always free from concerns.",
+    "themes": [
+      "knowledge",
+      "self",
+      "equanimity",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 98,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is dreaming, where is deep sleep, where is waking, where is the fourth state? Where is even fear for the one who is established in the Self?",
+    "themes": [
+      "self",
+      "consciousness",
+      "fear",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 18,
+    "verse": 99,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is far, where is near? Where is outer, where is inner? Where is gross, where is subtle? For the great soul who is ever formless.",
+    "themes": [
+      "duality",
+      "self",
+      "freedom",
+      "consciousness"
     ]
   },
   {
@@ -1554,6 +3556,45 @@
   },
   {
     "chapter": 19,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Using the tweezers of the knowledge of the truth, I have managed to extract the painful thorn of endless opinions from the recesses of my heart.",
+    "themes": [
+      "knowledge",
+      "mind",
+      "peace",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 3,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is duty, where is pleasure, where is wealth, where is discrimination, where is duality, where is non-duality, for me abiding in my own glory?",
+    "themes": [
+      "self",
+      "duality",
+      "freedom",
+      "detachment"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is past, where is future, where is even the present? Where is space, where is eternity, for me abiding in my own glory?",
+    "themes": [
+      "self",
+      "freedom",
+      "consciousness",
+      "world"
+    ]
+  },
+  {
+    "chapter": 19,
     "verse": 5,
     "sanskrit": "विलसन्ति महाभोगैर्विशन्ति गिरिगह्वरान् ।\nनिर्विचाराः कृतबुद्धेर्नास्ति किञ्चिदवस्तुकम् ॥",
     "iast": "vilasanti mahā-bhogair viśanti giri-gahvarān |\nnirvicārāḥ kṛta-buddher nāsti kiñcid avastukam ||",
@@ -1563,6 +3604,32 @@
       "self",
       "detachment",
       "consciousness"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the body, where is the mind? Where are the senses? Where is anything at all? Where is the void? For me whose nature is the absence of all things.",
+    "themes": [
+      "body",
+      "mind",
+      "self",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 19,
+    "verse": 7,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the scripture, where is self-knowledge? Where is the mind when free of objects? Where is contentment, where is desirelessness? For me who am beyond all duality.",
+    "themes": [
+      "knowledge",
+      "mind",
+      "desire",
+      "duality"
     ]
   },
   {
@@ -1592,6 +3659,19 @@
   },
   {
     "chapter": 20,
+    "verse": 2,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where are the elements, where is the body, where are the organs? Where is the mind? Where is the void? Where is despair? For me whose nature is transparent emptiness.",
+    "themes": [
+      "body",
+      "mind",
+      "self",
+      "dissolution"
+    ]
+  },
+  {
+    "chapter": 20,
     "verse": 3,
     "sanskrit": "क्व धर्मः क्व च वा कामः क्व चार्थः क्व विवेकता ।\nक्व द्वैतं क्व च वाऽद्वैतं स्वमहिम्नि स्थितस्य मे ॥",
     "iast": "kva dharmaḥ kva ca vā kāmaḥ kva cārthaḥ kva vivekatā |\nkva dvaitaṃ kva ca vā'dvaitaṃ sva-mahimni sthitasya me ||",
@@ -1605,6 +3685,45 @@
   },
   {
     "chapter": 20,
+    "verse": 4,
+    "sanskrit": "",
+    "iast": "",
+    "english": "I have no duty nor any possessions. I have no cause for destruction, and no mind. Why should I wish for liberation?",
+    "themes": [
+      "liberation",
+      "action",
+      "mind",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 5,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where are beings, where is the world appearing from within me? Where is 'I' and where is anything else? Where is the real and the unreal?",
+    "themes": [
+      "world",
+      "self",
+      "duality",
+      "ego"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 6,
+    "sanskrit": "",
+    "iast": "",
+    "english": "I am indeed the nature of the one without a second — the Supreme. I have been under an illusion, but now I am awake.",
+    "themes": [
+      "self",
+      "consciousness",
+      "knowledge",
+      "liberation"
+    ]
+  },
+  {
+    "chapter": 20,
     "verse": 7,
     "sanskrit": "क्व विद्या क्व च वाऽविद्या क्वाहं क्वेदं मम क्व वा ।\nक्व बन्धः क्व च वा मोक्षः स्वरूपस्य क्व रूपिता ॥",
     "iast": "kva vidyā kva ca vā'vidyā kvāhaṃ kvedaṃ mama kva vā |\nkva bandhaḥ kva ca vā mokṣaḥ svarūpasya kva rūpitā ||",
@@ -1614,6 +3733,84 @@
       "liberation",
       "bondage",
       "knowledge",
+      "consciousness"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 8,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is the world, where is the seeker of liberation? Where is the contemplative, where is the man of knowledge? Where is the bound soul, where is the liberated soul? The nature of the one is ever the same.",
+    "themes": [
+      "self",
+      "liberation",
+      "bondage",
+      "duality"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 9,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Where is creation, where is destruction? Where is the goal, where is the means? There is only the one infinite space. Where is anything?",
+    "themes": [
+      "dissolution",
+      "self",
+      "consciousness",
+      "freedom"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 10,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Nothing else concerns me — only that I exist as pure, infinite consciousness, and the world has appeared like a mirage within me.",
+    "themes": [
+      "consciousness",
+      "self",
+      "world",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 11,
+    "sanskrit": "",
+    "iast": "",
+    "english": "As I do not exist, nor does the world. Only the Absolute exists. All this appears within my nature, like silver in mother-of-pearl.",
+    "themes": [
+      "self",
+      "world",
+      "consciousness",
+      "knowledge"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 12,
+    "sanskrit": "",
+    "iast": "",
+    "english": "I am not in the world, and the world is not in me. I am pure. Where then are the body and the mind? Where is anything?",
+    "themes": [
+      "self",
+      "world",
+      "body",
+      "mind"
+    ]
+  },
+  {
+    "chapter": 20,
+    "verse": 13,
+    "sanskrit": "",
+    "iast": "",
+    "english": "Truly I am in all beings, and all beings are in me. To know this is knowledge, and then there is neither attachment nor non-attachment.",
+    "themes": [
+      "self",
+      "knowledge",
+      "attachment",
       "consciousness"
     ]
   },
