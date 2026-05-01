@@ -50,9 +50,9 @@ function App() {
           <main id="main">
             <Hero onAsk={handleAsk} />
             <AnswerSection matches={matches} reflection={reflection} question={question} />
+            <ChapterIndex />
             <ThemeGallery onThemeClick={handleThemeClick} />
             <Voices />
-            <ChapterIndex />
             <FAQFooter />
           </main>
         </>
