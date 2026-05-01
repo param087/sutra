@@ -79,12 +79,17 @@ export function ChapterIndex() {
                   >
                     <div className="pt-4 mt-4 border-t border-stroke">
                       <p className="text-xs text-muted mb-3">{ch.summary}</p>
-                      <div className="max-h-96 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-stroke scrollbar-track-transparent">
-                        {getVersesByChapter(ch.num).map(v => (
-                          <p key={`${v.chapter}-${v.verse}`} className="text-xs text-text-primary/70 mb-2 leading-relaxed">
-                            <span className="text-muted">{v.verse}.</span> {v.english}
-                          </p>
-                        ))}
+                      <div className="relative">
+                        <div className="max-h-96 overflow-y-auto pr-2 scrollbar-thin scrollbar-thumb-stroke scrollbar-track-transparent">
+                          {getVersesByChapter(ch.num).map(v => (
+                            <p key={`${v.chapter}-${v.verse}`} className="text-xs text-text-primary/70 mb-2 leading-relaxed">
+                              <span className="text-muted">{v.verse}.</span> {v.english}
+                            </p>
+                          ))}
+                        </div>
+                        {getVersesByChapter(ch.num).length > 6 && (
+                          <div className="pointer-events-none absolute bottom-0 left-0 right-2 h-10 bg-gradient-to-t from-surface to-transparent" />
+                        )}
                       </div>
                     </div>
                   </motion.div>
